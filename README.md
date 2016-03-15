@@ -32,4 +32,4 @@ Visit the dashboard http://127.0.0.1:8000/dashboard/home/
 ### Bugs
 - Page doesn't show properly on mobile in portrait. In landscape it works fine
 - Highcharts make blunders if a chart is initialized in a `div` which in hidden. Therefore, show the `div` first and then initialize the chart
-
+![showcase1](https://github.com/dhruvjain/LOOP-Dashboard/blob/master/images/pic1.png)

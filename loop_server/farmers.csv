@@ -1,0 +1,1406 @@
+Farmer,Gender,phone,Image_Path,Village,Crop,VRP,Market,Date,Quantity,Member Rate,Total Payment
+Sanju Devi,M,123456,abc,Dadanpur,Bhindi,Anil,,29-Jul-15,13,7,91
+Sanju Devi,M,123457,abc,Dadanpur,Nenua,Anil,,29-Jul-15,3,2,6
+Rajni Devi,M,123458,abc,Dadanpur,Mircha,Anil,,29-Jul-15,5,11,55
+Indu Devi,M,123459,abc,Dadanpur,Nenua,Anil,,29-Jul-15,7,2,14
+Indu Devi,M,123460,abc,Dadanpur,Saag,Anil,,29-Jul-15,2.5,10,25
+Sushila Devi,M,123461,abc,Dadanpur,Nenua,Anil,,29-Jul-15,17,2,34
+Niva Devi,M,123462,abc,Dadanpur,Nenua,Anil,,29-Jul-15,19,2,38
+Niva Devi,M,123463,abc,Dadanpur,Louki,Anil,,29-Jul-15,10,5,50
+Renu Devi,M,123464,abc,Dadanpur,Nenua,Anil,,29-Jul-15,7,2,14
+Dayabati Devi,M,123465,abc,Dadanpur,Bhindi,Anil,,29-Jul-15,2.5,7,17.5
+Kula Devi,M,123466,abc,Dadanpur,Nenua,Anil,,29-Jul-15,22,2,44
+Rita Devi,M,123467,abc,Dadanpur,Kundri,Anil,,29-Jul-15,1.5,10,15
+Renu Devi,M,123468,abc,Dadanpur,Bhindi,Anil,,29-Jul-15,27,7,189
+Renu Devi,M,123469,abc,Dadanpur,Nenua,Anil,,29-Jul-15,76,2,152
+Kanti Devi,M,123470,abc,Dadanpur,Bhindi,Anil,,29-Jul-15,52,7,364
+Manju Devi,M,123471,abc,Dadanpur,Nenua,Anil,,29-Jul-15,14,2,28
+Munakiya Devi,M,123472,abc,Dadanpur,Nenua,Anil,,30-Jul-15,5,,
+Mintar Devi,M,123473,abc,Dadanpur,Nenua,Anil,,30-Jul-15,6,,
+Mintar Devi,M,123474,abc,Dadanpur,Louki,Anil,,30-Jul-15,5,,
+Ramdulari Devi,M,123475,abc,Dadanpur,Nenua,Anil,,30-Jul-15,10,,
+Kantlal Singh,M,123476,abc,Dadanpur,Nenua,Anil,,30-Jul-15,15.5,,
+Indu Devi,M,123477,abc,Dadanpur,Kundri,Anil,,30-Jul-15,6,,
+Ramchandra Singh,M,123478,abc,Dadanpur,Nenua,Anil,,30-Jul-15,6,,
+Harendra Saini,M,123479,abc,Dadanpur,Nenua,Anil,,30-Jul-15,6,,
+Rajbati Devi,M,123480,abc,Dadanpur,Nenua,Anil,,30-Jul-15,7.5,,
+Shanti Devi,M,123481,abc,Dadanpur,Nenua,Anil,,30-Jul-15,23,,
+Sabita Devi,M,123482,abc,Dadanpur,Nenua,Anil,,30-Jul-15,7.5,,
+Rajni Devi,M,123483,abc,Dadanpur,Nenua,Anil,,30-Jul-15,5,,
+Rajni Devi,M,123484,abc,Dadanpur,Mircha,Anil,,30-Jul-15,1,,
+Rajni Devi,M,123485,abc,Dadanpur,Saag,Anil,,30-Jul-15,16,,
+Dayabati Devi,M,123486,abc,Dadanpur,Nenua,Anil,,31-Jul-15,1.5,,
+Dayabati Devi,M,123487,abc,Dadanpur,Bhindi,Anil,,31-Jul-15,2.5,,
+Dayabati Devi,M,123488,abc,Dadanpur,Kundri,Anil,,31-Jul-15,3,,
+Indu Devi,M,123489,abc,Dadanpur,Saag,Anil,,31-Jul-15,6,,
+Indu Devi,M,123490,abc,Dadanpur,Nenua,Anil,,31-Jul-15,4,,
+Niva devi,M,123491,abc,Dadanpur,Nenua,Anil,,31-Jul-15,16,,
+Niva devi,M,123492,abc,Dadanpur,Kaddu,Anil,,31-Jul-15,4,,
+Rajni Devi,M,123493,abc,Dadanpur,Mircha,Anil,,31-Jul-15,3.5,,
+Rajni Devi,M,123494,abc,Dadanpur,Saag,Anil,,31-Jul-15,6.8,,
+Manju Devi,M,123495,abc,Dadanpur,Nenua,Anil,,31-Jul-15,19,,
+Sushila Devi,M,123496,abc,Dadanpur,Nenua,Anil,,31-Jul-15,39,,
+Renu Devi,M,123497,abc,Dadanpur,Bean,Anil,,31-Jul-15,1,,
+Renu Devi,M,123498,abc,Dadanpur,Nenua,Anil,,31-Jul-15,4,,
+Pabitra Singh,M,123499,abc,Dadanpur,Nenua,Anil,,31-Jul-15,6,,
+Kula Devi,M,123500,abc,Dadanpur,Nenua,Anil,,31-Jul-15,27,,
+Kula Devi,M,123501,abc,Dadanpur,Kaddu,Anil,,31-Jul-15,6,,
+Sunita Devi,M,123502,abc,Dadanpur,Kaddu,Anil,,31-Jul-15,25,,
+Shanti Devi,M,123503,abc,Dadanpur,Nenua,Anil,,1-Aug-15,16,,
+Mintar Devi,M,123504,abc,Dadanpur,Nenua,Anil,,1-Aug-15,12,,
+Mintar Devi,M,123505,abc,Dadanpur,Louki,Anil,,1-Aug-15,5,,
+Rajbati Devi,M,123506,abc,Dadanpur,Nenua,Anil,,1-Aug-15,12,,
+Rajbati Devi,M,123507,abc,Dadanpur,Louki,Anil,,1-Aug-15,5,,
+Indu Devi,M,123508,abc,Dadanpur,Nenua,Anil,,2-Aug-15,11,,
+Indu Devi,M,123509,abc,Dadanpur,Louki,Anil,,2-Aug-15,2,,
+Ramchandra Singh,M,123510,abc,Dadanpur,Nenua,Anil,,2-Aug-15,4,,
+Kantlal Singh,M,123511,abc,Dadanpur,Nenua,Anil,,2-Aug-15,16,,
+Sushila Devi,M,123512,abc,Dadanpur,Nenua,Anil,,2-Aug-15,12,,
+Rajni Devi,M,123513,abc,Dadanpur,Bhindi,Anil,,2-Aug-15,2.5,,
+Sumitra Devi,M,123514,abc,Dadanpur,Kundri,Anil,,2-Aug-15,9,,
+Sumitra Devi,M,123515,abc,Dadanpur,Mircha,Anil,,2-Aug-15,4,,
+Sonelal Singh,M,123516,abc,Dadanpur,Nenua,Anil,,3-Aug-15,51,,
+Kanti Devi,M,123517,abc,Dadanpur,Bhindi,Anil,,3-Aug-15,22,,
+Niva Devi,M,123518,abc,Dadanpur,Nenua,Anil,,3-Aug-15,8,,
+Rita Devi,M,123519,abc,Dadanpur,Kundri,Anil,,3-Aug-15,1,,
+Shanti Devi,M,123520,abc,Dadanpur,Nenua,Anil,,3-Aug-15,11,,
+Sushila Devi,M,123521,abc,Dadanpur,Nenua,Anil,,4-Aug-15,23,,
+Kant Lal Singh,M,123522,abc,Dadanpur,Nenua,Anil,,4-Aug-15,2.5,,
+Uday Narayan Singh,M,123523,abc,Dadanpur,Nenua,Anil,,4-Aug-15,17,,
+Uday Narayan Singh,M,123524,abc,Dadanpur,Karela,Anil,,4-Aug-15,8.5,,
+Uday Narayan Singh,M,123525,abc,Dadanpur,Louki,Anil,,4-Aug-15,2,,
+Ramdulari Devi,M,123526,abc,Dadanpur,Kohra,Anil,,5-Aug-15,57.9,,
+Kanti Devi,M,123527,abc,Dadanpur,Bhindi,Anil,,5-Aug-15,25,,
+Rajni Devi,M,123528,abc,Dadanpur,Mircha,Anil,,5-Aug-15,8,,
+Sushila Devi,M,123529,abc,Dadanpur,Nenua,Anil,,5-Aug-15,18,,
+Rita Devi,M,123530,abc,Dadanpur,Nenua,Anil,,15-Aug-15,7.5,,
+Rita Devi,M,123531,abc,Dadanpur,Kundri,Anil,,15-Aug-15,1,,
+Sushila Devi,M,123532,abc,Dadanpur,Nenua,Anil,,15-Aug-15,6.5,,
+Sushila Devi,M,123533,abc,Dadanpur,Bean,Anil,,15-Aug-15,1,,
+Kula Devi,M,123534,abc,Dadanpur,Nenua,Anil,,15-Aug-15,9,,
+Kula Devi,M,123535,abc,Dadanpur,Saag,Anil,,15-Aug-15,2.5,,
+Rajbati Devi,M,123536,abc,Dadanpur,Nenua,Anil,,15-Aug-15,6.5,,
+Ramdulari Devi,M,123537,abc,Dadanpur,Bhindi,Anil,,15-Aug-15,8,,
+Ramdulari Devi,M,123538,abc,Dadanpur,Nenua,Anil,,15-Aug-15,5.5,,
+Indu Devi,M,123539,abc,Dadanpur,Bhindi,Anil,,15-Aug-15,2.5,,
+Kanti Devi,M,123540,abc,Dadanpur,Bhindi,Anil,,15-Aug-15,43,,
+Rajbati Devi,M,123541,abc,Dadanpur,Nenua,Anil,,17-Aug-15,2.5,,
+Shanti Devi,M,123542,abc,Dadanpur,Nenua,Anil,,17-Aug-15,3.5,,
+Sudama Devi,M,123543,abc,Dadanpur,Bhindi,Anil,,17-Aug-15,36,,
+Pramod Singh,M,123544,abc,Dadanpur,Mircha,Anil,,17-Aug-15,10,,
+Sushila Devi,M,123545,abc,Dadanpur,Bhindi,Anil,,17-Aug-15,8,,
+Asha Devi,M,123546,abc,Dadanpur,Kundri,Anil,,17-Aug-15,20,,
+Kanti Devi,M,123547,abc,Dadanpur,Bhindi,Anil,,17-Aug-15,8,,
+Rajni Devi,M,123548,abc,Dadanpur,Bean,Anil,,18-Aug-15,14,,
+Rajni Devi,M,123549,abc,Dadanpur,Saag,Anil,,18-Aug-15,11,,
+Bibha Devi,M,123550,abc,Dadanpur,Bhindi,Anil,,18-Aug-15,3,,
+Uday Singh,M,123551,abc,Dadanpur,Karela,Anil,,18-Aug-15,3,,
+Uday Singh,M,123552,abc,Dadanpur,Kundri,Anil,,18-Aug-15,2.5,,
+Renu Devi,M,123553,abc,Dadanpur,Saag,Anil,,18-Aug-15,3,,
+Sushila Devi,M,123554,abc,Dadanpur,Bhindi,Anil,,18-Aug-15,9.5,,
+Asha Devi,M,123555,abc,Dadanpur,Kundri,Anil,,18-Aug-15,30,,
+Shanti Devi,M,123556,abc,Dadanpur,Bhindi,Anil,,19-Aug-15,19,,
+Wakil Sahni,M,123557,abc,Dadanpur,Bhindi,Anil,,19-Aug-15,28,,
+Kanti Devi,M,123558,abc,Dadanpur,Bhindi,Anil,,19-Aug-15,37,,
+Indu Devi,M,123559,abc,Dadanpur,Kundri,Anil,,19-Aug-15,7.5,,
+Sushila Devi,M,123560,abc,Dadanpur,Nenua,Anil,,19-Aug-15,5.5,,
+Bibha Devi,M,123561,abc,Dadanpur,Nenua,Anil,,19-Aug-15,20,,
+Bibha Devi,M,123562,abc,Dadanpur,Bhindi,Anil,,20-Aug-15,3.5,,
+Bibha Devi,M,123563,abc,Dadanpur,Saag,Anil,,20-Aug-15,7,,
+Bibha Devi,M,123564,abc,Dadanpur,Jhinga (Ridge Gourd),Anil,,20-Aug-15,2,,
+Shanti Devi,M,123565,abc,Dadanpur,Bhindi,Anil,,20-Aug-15,9,,
+Harender Singh,M,123566,abc,Dadanpur,Nenua,Anil,,20-Aug-15,2,,
+Sushila Devi,M,123567,abc,Dadanpur,Bhindi,Anil,,20-Aug-15,11,,
+Pramod Singh,M,123568,abc,Dadanpur,Kundri,Anil,,20-Aug-15,20,,
+Anita Devi,M,123569,abc,Dadanpur,Kundri,Anil,,20-Aug-15,25,,
+Lalmani Devi,M,123570,abc,Dadanpur,Saag,Anil,,20-Aug-15,25,,
+Pramod Singh,M,123571,abc,Dadanpur,Bhindi,Anil,,21-Aug-15,24,,
+Manoj Singh,M,123572,abc,Dadanpur,Bhindi,Anil,,21-Aug-15,12,,
+Kanti Devi,M,123573,abc,Dadanpur,Bhindi,Anil,,21-Aug-15,12,,
+Kula Devi,M,123574,abc,Dadanpur,Nenua,Anil,,21-Aug-15,8.5,,
+Kula Devi,M,123575,abc,Dadanpur,Kundri,Anil,,21-Aug-15,4,,
+Uday Singh,M,123576,abc,Dadanpur,Karela,Anil,,21-Aug-15,1.5,,
+Shanti Devi,M,123577,abc,Dadanpur,Bhindi,Anil,,21-Aug-15,9.5,,
+Anita Devi,M,123578,abc,Dadanpur,Bhindi,Anil,,21-Aug-15,35,,
+Indu Devi,M,123579,abc,Dadanpur,Bhindi,Anil,,21-Aug-15,3,,
+,M,123580,abc,,,Anil,,,,,
+Shanti Devi,M,123581,abc,Dadanpur,Bhindi,Anil,,22-Aug-15,9,,
+Renu Devi,M,123582,abc,Dadanpur,Nenua,Anil,,22-Aug-15,7,,
+Ramchandra Singh,M,123583,abc,Dadanpur,Bhindi,Anil,,22-Aug-15,2.5,,
+Sunita Devi,M,123584,abc,Dadanpur,Bhindi,Anil,,22-Aug-15,22,,
+Bibha Devi,M,123585,abc,Dadanpur,Bhindi,Anil,,22-Aug-15,2.5,,
+Bibha Devi,M,123586,abc,Dadanpur,Nenua,Anil,,22-Aug-15,9.5,,
+Bibha Devi,M,123587,abc,Dadanpur,Brinjal (Inferior Quality),Anil,,22-Aug-15,9,,
+Ramdulari Devi,M,123588,abc,Dadanpur,Nenua,Anil,,22-Aug-15,4.5,,
+Ramdulari Devi,M,123589,abc,Dadanpur,Mircha,Anil,,22-Aug-15,3.5,,
+Ramdulari Devi,M,123590,abc,Dadanpur,Brinjal (Inferior Quality),Anil,,22-Aug-15,7.5,,
+Wakil Sahani,M,123591,abc,Dadanpur,Bhindi,Anil,,22-Aug-15,35,,
+Lalu Singh,M,123592,abc,Dadanpur,Bhindi,Anil,,22-Aug-15,25,,
+Shanti Devi,M,123593,abc,Dadanpur,Bhindi,Anil,,23-Aug-15,8,,
+Nilam Devi,M,123594,abc,Dadanpur,Bhindi,Anil,,23-Aug-15,3.5,,
+Indu Devi,M,123595,abc,Dadanpur,Bhindi,Anil,,23-Aug-15,3,,
+Indu Devi,M,123596,abc,Dadanpur,Kundri,Anil,,23-Aug-15,6.5,,
+Kula Devi,M,123597,abc,Dadanpur,Bhindi,Anil,,23-Aug-15,17,,
+Pramod Singh,M,123598,abc,Dadanpur,Bhindi,Anil,,23-Aug-15,31.5,,
+Lalu Singh,M,123599,abc,Dadanpur,Bhindi,Anil,,23-Aug-15,17,,
+Lalu Singh,M,123600,abc,Dadanpur,Jhinga,Anil,,23-Aug-15,2.5,,
+Shanti Devi,M,123601,abc,Dadanpur,Bhindi,Anil,,24-Aug-15,9,,
+Shanti Devi,M,123602,abc,Dadanpur,Nenua,Anil,,24-Aug-15,2.5,,
+Sunita Devi,M,123603,abc,Dadanpur,Bhindi,Anil,,24-Aug-15,19,,
+Sunita Devi,M,123604,abc,Dadanpur,Nenua,Anil,,24-Aug-15,9,,
+Bibha Devi,M,123605,abc,Dadanpur,Bhindi,Anil,,24-Aug-15,4,,
+Bibha Devi,M,123606,abc,Dadanpur,Jhinga,Anil,,24-Aug-15,2,,
+Bibha Devi,M,123607,abc,Dadanpur,Nenua,Anil,,24-Aug-15,5,,
+Ramchandra Singh,M,123608,abc,Dadanpur,Nenua,Anil,,24-Aug-15,2.5,,
+Ramchandra Singh,M,123609,abc,Dadanpur,Bhindi,Anil,,24-Aug-15,1,,
+Ramdulari Devi,M,123610,abc,Dadanpur,Mircha,Anil,,24-Aug-15,5,,
+Wakil Sahni,M,123611,abc,Dadanpur,Bhindi,Anil,,24-Aug-15,32,,
+Kanti Devi,M,123612,abc,Dadanpur,Bhindi,Anil,,24-Aug-15,27,,
+Nilam Devi,M,123613,abc,Dadanpur,Bhindi,Anil,,25-Aug-15,7.5,,
+Sushila Devi,M,123614,abc,Dadanpur,Bhindi,Anil,,25-Aug-15,13,,
+Sandip Singh,M,123615,abc,Dadanpur,Bhindi,Anil,,25-Aug-15,7.5,,
+Shanti Devi,M,123616,abc,Dadanpur,Bhindi,Anil,,25-Aug-15,14,,
+Ashok Singh,M,123617,abc,Dadanpur,Bhindi,Anil,,25-Aug-15,2.5,,
+Indu Devi,M,123618,abc,Dadanpur,Bhindi,Anil,,25-Aug-15,4.5,,
+Indu Devi,M,123619,abc,Dadanpur,Nenua,Anil,,25-Aug-15,1.25,,
+Manoj Singh,M,123620,abc,Dadanpur,Bhindi,Anil,,25-Aug-15,19,,
+Kula Devi,M,123621,abc,Dadanpur,Bhindi,Anil,,25-Aug-15,14,,
+Kanti Devi,M,123622,abc,Dadanpur,Bhindi,Anil,,25-Aug-15,16,,
+,M,123623,abc,,,Anil,,,,,
+Shanti Devi,M,123624,abc,Dadanpur,Bhindi,Anil,,26-Aug-15,7.5,,
+Bhagmania Devi,M,123625,abc,Dadanpur,Bhindi,Anil,,26-Aug-15,7.5,,
+Nirmala Devi,M,123626,abc,Dadanpur,Bhindi,Anil,,26-Aug-15,6,,
+Champa Devi,M,123627,abc,Dadanpur,Bhindi,Anil,,26-Aug-15,6,,
+Bibha Devi,M,123628,abc,Dadanpur,Bhindi,Anil,,26-Aug-15,3.5,,
+Ramchandra Singh,M,123629,abc,Dadanpur,Bhindi,Anil,,26-Aug-15,1,,
+Ramchandra Singh,M,123630,abc,Dadanpur,Nenua,Anil,,26-Aug-15,1,,
+Kula Devi,M,123631,abc,Dadanpur,Bhindi,Anil,,26-Aug-15,8,,
+Manju Devi,M,123632,abc,Dadanpur,Bhindi,Anil,,26-Aug-15,9,,
+Manju Devi,M,123633,abc,Dadanpur,Nenua,Anil,,26-Aug-15,1.5,,
+Kanti Devi,M,123634,abc,Dadanpur,Bhindi,Anil,,26-Aug-15,10,,
+Rita Devi,M,123635,abc,Dadanpur,Kundri,Anil,,26-Aug-15,30,,
+Sabita Devi,M,123636,abc,Dadanpur,Mircha,Anil,,26-Aug-15,17,,
+Wakil Sahni,M,123637,abc,Dadanpur,Bhindi,Anil,,26-Aug-15,53,,
+,M,123638,abc,,,Anil,,,,,
+Faudi Sahni,M,123639,abc,Dadanpur,Bhindi,Anil,,27-Aug-15,22,,
+Shanti Devi,M,123640,abc,Dadanpur,Bhindi,Anil,,27-Aug-15,12,,
+Shanti Devi,M,123641,abc,Dadanpur,Nenua,Anil,,27-Aug-15,1.5,,
+Indu Devi,M,123642,abc,Dadanpur,Bhindi,Anil,,27-Aug-15,6.5,,
+Indu Devi,M,123643,abc,Dadanpur,Kundri,Anil,,27-Aug-15,4.5,,
+Indu Devi,M,123644,abc,Dadanpur,Nenua,Anil,,27-Aug-15,2,,
+Sushila Devi,M,123645,abc,Dadanpur,Bhindi,Anil,,27-Aug-15,14,,
+Ashok Singh,M,123646,abc,Dadanpur,Bhindi,Anil,,27-Aug-15,4,,
+Rajbati Devi,M,123647,abc,Dadanpur,Bhindi,Anil,,27-Aug-15,2,,
+Rajbati Devi,M,123648,abc,Dadanpur,Nenua,Anil,,27-Aug-15,1.5,,
+Nilam Devi,M,123649,abc,Dadanpur,Bhindi,Anil,,27-Aug-15,5,,
+Sandip Singh,M,123650,abc,Dadanpur,Bhindi,Anil,,27-Aug-15,7,,
+Sunita Devi,M,123651,abc,Dadanpur,Bhindi,Anil,,27-Aug-15,8,,
+Asha Devi,M,123652,abc,Dadanpur,Kundri,Anil,,27-Aug-15,34,,
+,M,123653,abc,,,Anil,,,,,
+Champa Devi,M,123654,abc,Dadanpur,Bhindi,Anil,,28-Aug-15,10,10,100
+Shanti Devi,M,123655,abc,Dadanpur,Bhindi,Anil,,28-Aug-15,7,10,70
+Kula Devi,M,123656,abc,Dadanpur,Bhindi,Anil,,28-Aug-15,22,10,220
+Kula Devi,M,123657,abc,Dadanpur,Kundri,Anil,,28-Aug-15,6.5,10,65
+Nirmala Devi,M,123658,abc,Dadanpur,Bhindi,Anil,,28-Aug-15,5,10,50
+Manju Devi,M,123659,abc,Dadanpur,Bhindi,Anil,,28-Aug-15,2.5,10,25
+Manju Devi,M,123660,abc,Dadanpur,Saag,Anil,,28-Aug-15,2.5,4,10
+Manju Devi,M,123661,abc,Dadanpur,Nenua,Anil,,28-Aug-15,2,5,10
+Wakil Sahni,M,123662,abc,Dadanpur,Bhindi,Anil,,28-Aug-15,62,10,620
+Ashok Singh,M,123663,abc,Dadanpur,Karela,Anil,,28-Aug-15,9,11,99
+,M,123664,abc,,,Anil,,,,,
+Foudi Sahni,M,123665,abc,Dadanpur,Bhindi,Anil,,29-Aug-15,20,10,200
+Indu Devi,M,123666,abc,Dadanpur,Bhindi,Anil,,29-Aug-15,7,10,70
+Rajbati Devi,M,123667,abc,Dadanpur,Bhindi,Anil,,29-Aug-15,2.5,10,25
+Sushila Devi,M,123668,abc,Dadanpur,Bhindi,Anil,,29-Aug-15,11,10,110
+Sushila Devi,M,123669,abc,Dadanpur,Saag,Anil,,29-Aug-15,1.5,5,7.5
+Shanti Devi,M,123670,abc,Dadanpur,Bhindi,Anil,,29-Aug-15,11.5,10,115
+Nilam Devi,M,123671,abc,Dadanpur,Bhindi,Anil,,29-Aug-15,7,10,70
+Ashok Singh,M,123672,abc,Dadanpur,Bhindi,Anil,,29-Aug-15,5,10,50
+Kula Devi,M,123673,abc,Dadanpur,Bhindi,Anil,,29-Aug-15,15,10,150
+Bibha Devi,M,123674,abc,Dadanpur,Bhindi,Anil,,29-Aug-15,4.5,10,45
+Bibha Devi,M,123675,abc,Dadanpur,Jhinga,Anil,,29-Aug-15,1,5,5
+Kanti Devi,M,123676,abc,Dadanpur,Bhindi,Anil,,29-Aug-15,16,10,160
+Ramdulari Devi,M,123677,abc,Dadanpur,Kundri,Anil,,29-Aug-15,28,10,280
+,M,123678,abc,,,Anil,,,,,
+Champa Devi,M,123679,abc,Dadanpur,Bhindi,Anil,,30-Aug-15,10,12,120
+Nirmala Devi,M,123680,abc,Dadanpur,Bhindi,Anil,,30-Aug-15,7,12,84
+Ramchandra Singh,M,123681,abc,Dadanpur,Bhindi,Anil,,30-Aug-15,2,12,24
+Ramchandra Singh,M,123682,abc,Dadanpur,Nenua,Anil,,30-Aug-15,2.5,3,7.5
+Foudi Sahni,M,123683,abc,Dadanpur,Saag,Anil,,30-Aug-15,6,3,18
+Foudi Sahni,M,123684,abc,Dadanpur,Nenua,Anil,,30-Aug-15,6,3,18
+Prabhu Sahni,M,123685,abc,Dadanpur,Bhindi,Anil,,30-Aug-15,36,12,432
+Wakil Sahni,M,123686,abc,Dadanpur,Bhindi,Anil,,30-Aug-15,55,12,660
+Prasant Pandit,M,123687,abc,Dadanpur,Bhindi,Anil,,30-Aug-15,4.25,12,51
+Indu Devi,M,123688,abc,Dadanpur,Kundri,Anil,,30-Aug-15,27,8,216
+Kanti Devi,M,123689,abc,Dadanpur,Bhindi,Anil,,30-Aug-15,15,12,180
+,M,123690,abc,,,Anil,,,,,
+Indu Devi,M,123691,abc,Dadanpur,Bhindi,Anil,,31-Aug-15,7.5,11,82.5
+Indu Devi,M,123692,abc,Dadanpur,Nenua,Anil,,31-Aug-15,2,5,10
+Dhanwa Devi,M,123693,abc,Dadanpur,Bhindi,Anil,,31-Aug-15,2,11,22
+Shanti Devi,M,123694,abc,Dadanpur,Bhindi,Anil,,31-Aug-15,14.5,11,159.5
+Shanti Devi,M,123695,abc,Dadanpur,Nenua,Anil,,31-Aug-15,4,5,20
+Rajbati Devi,M,123696,abc,Dadanpur,Nenua,Anil,,31-Aug-15,3,5,15
+Ashok Singh,M,123697,abc,Dadanpur,Bhindi,Anil,,31-Aug-15,5.5,11,60.5
+Sushila Devi,M,123698,abc,Dadanpur,Bhindi,Anil,,31-Aug-15,11,11,121
+Nilam Devi,M,123699,abc,Dadanpur,Bhindi,Anil,,31-Aug-15,5,11,55
+Prabhu Sahni,M,123700,abc,Dadanpur,Bhindi,Anil,,31-Aug-15,20,11,220
+Mangnu Sahni,M,123701,abc,Dadanpur,Bhindi,Anil,,31-Aug-15,15,11,165
+Mangnu Sahni,M,123702,abc,Dadanpur,Bean,Anil,,31-Aug-15,9.5,7,66.5
+Foudi Sahni,M,123703,abc,Dadanpur,Bhindi,Anil,,31-Aug-15,20.5,11,225.5
+Bhola Singh,M,123704,abc,Larua,Mircha,Anil,,31-Aug-15,10,19,190
+,M,123705,abc,,,Anil,,,,,0
+Asha Devi,M,123706,abc,Dadanpur,Kundri,Anil,,1-Sep-15,84,8,672
+Krishna Devi,M,123707,abc,Dadanpur,Bhindi,Anil,,1-Sep-15,33,11,363
+Kula Devi,M,123708,abc,Dadanpur,Bhindi,Anil,,1-Sep-15,29,11,319
+Prabhu Sahni,M,123709,abc,Dadanpur,Bhindi,Anil,,1-Sep-15,26.5,11,291.5
+Hari Sahni,M,123710,abc,Dadanpur,Bhindi,Anil,,1-Sep-15,14,11,154
+Manju Devi,M,123711,abc,Dadanpur,Bhindi,Anil,,1-Sep-15,5.5,11,60.5
+Manju Devi,M,123712,abc,Dadanpur,Saag,Anil,,1-Sep-15,2,5,10
+Champa Devi,M,123713,abc,Dadanpur,Bhindi,Anil,,1-Sep-15,12,11,132
+Chandradip Singh,M,123714,abc,Dadanpur,Bhindi,Anil,,1-Sep-15,7,11,77
+Nirmala Devi,M,123715,abc,Dadanpur,Bhindi,Anil,,1-Sep-15,7.5,11,82.5
+,M,123716,abc,,,Anil,,,,,0
+Nilam Devi,M,123717,abc,Dadanpur,Bhindi,Anil,,2-Sep-15,5,11,55
+Shanti Devi,M,123718,abc,Dadanpur,Bhindi,Anil,,2-Sep-15,14.5,11,159.5
+Shanti Devi,M,123719,abc,Dadanpur,Nenua,Anil,,2-Sep-15,7,6,42
+Indu Devi,M,123720,abc,Dadanpur,Bhindi,Anil,,2-Sep-15,10,11,110
+Indu Devi,M,123721,abc,Dadanpur,Kundri,Anil,,2-Sep-15,6,7,42
+Sushila Devi,M,123722,abc,Dadanpur,Bhindi,Anil,,2-Sep-15,15.5,11,170.5
+Rajbati Devi,M,123723,abc,Dadanpur,Bhindi,Anil,,2-Sep-15,3,11,33
+Ramdulari Devi,M,123724,abc,Dadanpur,Saag,Anil,,2-Sep-15,3,5,15
+Ramdulari Devi,M,123725,abc,Dadanpur,Mircha,Anil,,2-Sep-15,8,40,320
+Ramchandra Singh,M,123726,abc,Dadanpur,Bhindi,Anil,,2-Sep-15,2,6,12
+Ramchandra Singh,M,123727,abc,Dadanpur,Nenua,Anil,,2-Sep-15,2.5,6,15
+Bibha Devi,M,123728,abc,Dadanpur,Bhindi,Anil,,2-Sep-15,4,11,44
+Bibha Devi,M,123729,abc,Dadanpur,Jhinga,Anil,,2-Sep-15,2,7,14
+Ashok Singh,M,123730,abc,Dadanpur,Bhindi,Anil,,2-Sep-15,7.5,11,82.5
+Mangnu Sahni,M,123731,abc,Dadanpur,Bhindi,Anil,,2-Sep-15,16,9,144
+Foudi Sahni,M,123732,abc,Dadanpur,Bhindi,Anil,,2-Sep-15,22,11,242
+Prabhu Sahni,M,123733,abc,Dadanpur,Bhindi,Anil,,2-Sep-15,30.5,11,335.5
+Basant Pandit,M,123734,abc,Banbira,Bhindi,Anil,,2-Sep-15,25,11,275
+,M,123735,abc,,,Anil,,,,,
+Nirmala Devi,M,123736,abc,Dadanpur,Bhindi,Anil,,3-Sep-15,11,9,99
+Hari Sahni,M,123737,abc,Dadanpur,Bhindi,Anil,,3-Sep-15,35.5,9,319.5
+Manju Devi,M,123738,abc,Dadanpur,Bhindi,Anil,,3-Sep-15,14,9,126
+Manju Devi,M,123739,abc,Dadanpur,Nenua,Anil,,3-Sep-15,3.5,5,17.5
+Renu Devi,M,123740,abc,Dadanpur,Nenua,Anil,,3-Sep-15,4,5,20
+Renu Devi,M,123741,abc,Dadanpur,Jhinga,Anil,,3-Sep-15,1,5,5
+Champa Devi,M,123742,abc,Dadanpur,Bhindi,Anil,,3-Sep-15,9,9,81
+Wakil Sahni,M,123743,abc,Dadanpur,Bhindi,Anil,,3-Sep-15,66,9,594
+Ramdulari Devi,M,123744,abc,Dadanpur,Mircha,Anil,,3-Sep-15,3.5,35,122.5
+Kula Devi,M,123745,abc,Dadanpur,Bhindi,Anil,,3-Sep-15,18.5,9,166.5
+Pramila Devi,M,123746,abc,Larua,Jhinga,Anil,,3-Sep-15,5,5,25
+Fulo Devi,M,123747,abc,Larua,Nenua,Anil,,3-Sep-15,5,5,25
+Sita Devi,M,123748,abc,Larua,Bhindi,Anil,,3-Sep-15,15,9,135
+,M,123749,abc,,,Anil,,,,,
+Shanti Devi,M,123750,abc,Dadanpur,Bhindi,Anil,,4-Sep-15,13,7,91
+Shanti Devi,M,123751,abc,Dadanpur,Nenua,Anil,,4-Sep-15,7,3,21
+Ramchandra Singh,M,123752,abc,Dadanpur,Bhindi,Anil,,4-Sep-15,1,7,7
+Ramchandra Singh,M,123753,abc,Dadanpur,Nenua,Anil,,4-Sep-15,1,3,3
+Foudi Sahni,M,123754,abc,Dadanpur,Bhindi,Anil,,4-Sep-15,23,7,161
+Ashok Singh,M,123755,abc,Dadanpur,Bhindi,Anil,,4-Sep-15,11.5,7,80.5
+Basant Pandit,M,123756,abc,Dadanpur,Bhindi,Anil,,4-Sep-15,27,7,189
+Jogendra Pandit,M,123757,abc,Dadanpur,Bhindi,Anil,,4-Sep-15,14.5,7,101.5
+Champa Devi,M,123758,abc,Dadanpur,Saag,Anil,,4-Sep-15,7.5,4,30
+Banarasi Devi,M,123759,abc,Dadanpur,Saag,Anil,,4-Sep-15,9,4,36
+Rajbati Devi,M,123760,abc,Dadanpur,Bhindi,Anil,,4-Sep-15,4,7,28
+Rajbati Devi,M,123761,abc,Dadanpur,Nenua,Anil,,4-Sep-15,1,3,3
+Indu Devi,M,123762,abc,Dadanpur,Bhindi,Anil,,4-Sep-15,17,7,119
+Indu Devi,M,123763,abc,Dadanpur,Nenua,Anil,,4-Sep-15,6,3,18
+Sunita Devi,M,123764,abc,Dadanpur,Bhindi,Anil,,4-Sep-15,33,7,231
+Chandradip Singh,M,123765,abc,Dadanpur,Bhindi,Anil,,4-Sep-15,10,7,70
+Chandradip Singh,M,123766,abc,Dadanpur,Nenua,Anil,,4-Sep-15,15.5,3,46.5
+Nilam Devi,M,123767,abc,Dadanpur,Bhindi,Anil,,4-Sep-15,15.5,7,108.5
+Kula Devi,M,123768,abc,Dadanpur,Bhindi,Anil,,4-Sep-15,14,7,98
+Bibha Devi,M,123769,abc,Dadanpur,Bhindi,Anil,,4-Sep-15,3,7,21
+Bibha Devi,M,123770,abc,Dadanpur,Nenua,Anil,,4-Sep-15,4,3,12
+Prabhu Sahni,M,123771,abc,Dadanpur,Bhindi,Anil,,4-Sep-15,7,7,49
+Sushila Devi,M,123772,abc,Dadanpur,Bhindi,Anil,,4-Sep-15,11,7,77
+Sita Devi,M,123773,abc,Larua,Bhindi,Anil,,4-Sep-15,11,7,77
+Renuka Devi,M,123774,abc,Larua,Bhindi,Anil,,4-Sep-15,15,7,105
+Mikki Devi,M,123775,abc,Larua,Nenua,Anil,,4-Sep-15,8,3,24
+Kalmukh Devi,M,123776,abc,Larua,Kundri,Anil,,4-Sep-15,14,6,84
+,M,123777,abc,,,Anil,,,,,0
+Nirmala Devi,M,123778,abc,Dadanpur,Bhindi,Anil,,5-Sep-15,13,9,117
+Basant Singh,M,123779,abc,Dadanpur,Plantain,Anil,,5-Sep-15,5,10,50
+Hari Singh,M,123780,abc,Dadanpur,Bhindi,Anil,,5-Sep-15,41,9,369
+Asha Devi,M,123781,abc,Dadanpur,Kundri,Anil,,5-Sep-15,20,5,100
+Wakil Sahni,M,123782,abc,Dadanpur,Bhindi,Anil,,5-Sep-15,83,9,747
+Pramila Devi,M,123783,abc,Larua,Jhinga,Anil,,5-Sep-15,1.5,6,9
+Rajib Singh,M,123784,abc,Larua,Plantain,Anil,,5-Sep-15,39,10,390
+Poonam Devi,M,123785,abc,Larua,Bhindi,Anil,,5-Sep-15,15,9,135
+,M,123786,abc,,,Anil,,,,,
+Indu Devi,M,123787,abc,Dadanpur,Bhindi,Anil,,6-Sep-15,15,8,120
+Indu Devi,M,123788,abc,Dadanpur,Kundri,Anil,,6-Sep-15,5,5,25
+Ramchandra Singh,M,123789,abc,Dadanpur,Nenua,Anil,,6-Sep-15,1.5,3,4.5
+Ashok Singh,M,123790,abc,Dadanpur,Bhindi,Anil,,6-Sep-15,18,8,144
+Sunita Devi,M,123791,abc,Dadanpur,Bhindi,Anil,,6-Sep-15,12.5,8,100
+Sunita Devi,M,123792,abc,Dadanpur,Nenua,Anil,,6-Sep-15,3,3,9
+Nilam Devi,M,123793,abc,Dadanpur,Bhindi,Anil,,6-Sep-15,23,8,184
+Sushila Devi,M,123794,abc,Dadanpur,Bhindi,Anil,,6-Sep-15,16,8,128
+Foudi Sahni,M,123795,abc,Dadanpur,Bhindi,Anil,,6-Sep-15,23,8,184
+Kula Devi,M,123796,abc,Dadanpur,Bhindi,Anil,,6-Sep-15,21,8,168
+Basant Pandit,M,123797,abc,Dadanpur,Bhindi,Anil,,6-Sep-15,32,8,256
+Renuka Devi,M,123798,abc,Larua,Bhindi,Anil,,6-Sep-15,20,8,160
+Sita Devi,M,123799,abc,Larua,Bhindi,Anil,,6-Sep-15,15,8,120
+Fulo Devi,M,123800,abc,Larua,Nenua,Anil,,6-Sep-15,5,3,15
+,M,123801,abc,,,Anil,,,,,
+Nirmala Devi,M,123802,abc,Dadanpur,Bhindi,Anil,,7-Sep-15,15,7,105
+Rajbati Devi,M,123803,abc,Dadanpur,Bhindi,Anil,,7-Sep-15,6,7,42
+Rajbati Devi,M,123804,abc,Dadanpur,Nenua,Anil,,7-Sep-15,1.5,3,4.5
+Akli Devi,M,123805,abc,Dadanpur,Kundri,Anil,,7-Sep-15,1.5,5,7.5
+Akli Devi,M,123806,abc,Dadanpur,Nenua,Anil,,7-Sep-15,3,3,9
+Akli Devi,M,123807,abc,Dadanpur,Saag,Anil,,7-Sep-15,7,4,28
+Bibha Devi,M,123808,abc,Dadanpur,Bhindi,Anil,,7-Sep-15,5,7,35
+Bibha Devi,M,123809,abc,Dadanpur,Saag,Anil,,7-Sep-15,2,4,8
+Krishna Devi,M,123810,abc,Dadanpur,Bhindi,Anil,,7-Sep-15,17,7,119
+Manju Devi,M,123811,abc,Dadanpur,Bhindi,Anil,,7-Sep-15,29,7,203
+Renu Devi,M,123812,abc,Dadanpur,Bhindi,Anil,,7-Sep-15,1.5,7,10.5
+Wakil Sahni,M,123813,abc,Dadanpur,Bhindi,Anil,,7-Sep-15,83,7,581
+Wakil Sahni,M,123814,abc,Dadanpur,Bhindi (Inferior Quality),Anil,,7-Sep-15,45,5,225
+Hari Sahni,M,123815,abc,Dadanpur,Bhindi,Anil,,7-Sep-15,28.5,7,199.5
+Hari Sahni,M,123816,abc,Dadanpur,Bhindi (Inferior Quality),Anil,,7-Sep-15,36,5,180
+Anita Devi,M,123817,abc,Larua,Kundri,Anil,,7-Sep-15,15,5,75
+Sunita Devi,M,123818,abc,Larua,Nenua,Anil,,7-Sep-15,10,3,30
+Geeta Devi,M,123819,abc,Larua,Bhindi,Anil,,7-Sep-15,10,7,70
+Priyanka Devi,M,123820,abc,Larua,Kundri,Anil,,7-Sep-15,10,5,50
+,M,123821,abc,,,Anil,,,,,0
+Manju Devi,M,123822,abc,Dadanpur,Saag,Anil,,8-Sep-15,5,5,25
+Sunita Devi,M,123823,abc,Dadanpur,Bhindi,Anil,,8-Sep-15,100,6,600
+Sunita Devi,M,123824,abc,Dadanpur,Saag,Anil,,8-Sep-15,3,5,15
+Sunita Devi,M,123825,abc,Dadanpur,Nenua,Anil,,8-Sep-15,7,3,21
+Shanti Devi,M,123826,abc,Dadanpur,Bhindi,Anil,,8-Sep-15,10,6,60
+Shanti Devi,M,123827,abc,Dadanpur,Nenua,Anil,,8-Sep-15,2.5,3,7.5
+Ashok Singh,M,123828,abc,Dadanpur,Bhindi,Anil,,8-Sep-15,21,6,126
+Foudi Sahni,M,123829,abc,Dadanpur,Bhindi,Anil,,8-Sep-15,29,6,174
+Ramchandra Singh,M,123830,abc,Dadanpur,Bhindi,Anil,,8-Sep-15,3,6,18
+Sushila Devi,M,123831,abc,Dadanpur,Bhindi,Anil,,8-Sep-15,20,6,120
+Sushila Devi,M,123832,abc,Dadanpur,Nenua,Anil,,8-Sep-15,3,3,9
+Nilam Devi,M,123833,abc,Dadanpur,Bhindi,Anil,,8-Sep-15,19,6,114
+Basant Pandit,M,123834,abc,Dadanpur,Bhindi,Anil,,8-Sep-15,26,6,156
+Sita Devi,M,123835,abc,Larua,Bhindi,Anil,,8-Sep-15,16,6,96
+Renuka Devi,M,123836,abc,Larua,Nenua,Anil,,8-Sep-15,25,3,75
+Fulo Devi,M,123837,abc,Larua,Nenua,Anil,,8-Sep-15,10,3,30
+,M,123838,abc,,,Anil,,,,,0
+Harinder Sahni,M,123839,abc,Dadanpur,Jhinga,Anil,,9-Sep-15,5.5,6,33
+Rajbati Devi,M,123840,abc,Dadanpur,Bhindi,Anil,,9-Sep-15,5.5,5,27.5
+Nirmala Devi,M,123841,abc,Dadanpur,Bhindi,Anil,,9-Sep-15,17,5,85
+Renu Devi,M,123842,abc,Dadanpur,Bhindi,Anil,,9-Sep-15,5,5,25
+Renu Devi,M,123843,abc,Dadanpur,Nenua,Anil,,9-Sep-15,4,3,12
+Sunita Devi,M,123844,abc,Dadanpur,Bhindi,Anil,,9-Sep-15,50.5,5,252.5
+Kula Devi,M,123845,abc,Dadanpur,Bhindi,Anil,,9-Sep-15,23,5,115
+Kula Devi,M,123846,abc,Dadanpur,Kundri,Anil,,9-Sep-15,4,5,20
+Wakil Sahni,M,123847,abc,Dadanpur,Bhindi,Anil,,9-Sep-15,90,5,450
+Champa Devi,M,123848,abc,Dadanpur,Bhindi,Anil,,9-Sep-15,27,5,135
+Bhola Sahni,M,123849,abc,Larua,Bhindi,Anil,,9-Sep-15,29,5,145
+Sunita Devi,M,123850,abc,Larua,Nenua,Anil,,9-Sep-15,10,3,30
+Basundhara Devi,M,123851,abc,Larua,Kundri,Anil,,9-Sep-15,10,5,50
+Geeta Devi,M,123852,abc,Larua,Bhindi,Anil,,9-Sep-15,15,5,75
+,M,123853,abc,,,Anil,,,,,0
+Meena Devi,M,123854,abc,Larua,Plantain,Anil,,10-Sep-15,10,10,100
+Archana Devi,M,123855,abc,Larua,Plantain,Anil,,10-Sep-15,10,10,100
+Sonalika Devi,M,123856,abc,Larua,Plantain,Anil,,10-Sep-15,9,10,90
+Rukmini Devi,M,123857,abc,Larua,Plantain,Anil,,10-Sep-15,8,10,80
+Dhanwa Devi,M,123858,abc,Dadanpur,Bhindi,Anil,,10-Sep-15,3,6,18
+Dhanwa Devi,M,123859,abc,Dadanpur,Jhinga,Anil,,10-Sep-15,2.5,5,12.5
+Ashok Singh,M,123860,abc,Dadanpur,Bhindi,Anil,,10-Sep-15,13,6,78
+Shanti Devi,M,123861,abc,Dadanpur,Bhindi,Anil,,10-Sep-15,8,6,48
+Shanti Devi,M,123862,abc,Dadanpur,Nenua,Anil,,10-Sep-15,2.5,3,7.5
+Nilam Devi,M,123863,abc,Dadanpur,Bhindi,Anil,,10-Sep-15,20,6,120
+Foudi Sahni,M,123864,abc,Dadanpur,Bhindi,Anil,,10-Sep-15,23,6,138
+,M,123865,abc,,,Anil,,,,,0
+Rajbati Devi,M,123866,abc,Dadanpur,Bhindi,Anil,,11-Sep-15,7.5,5,37.5
+Nirmala Devi,M,123867,abc,Dadanpur,Bhindi,Anil,,11-Sep-15,18,5,90
+Iswar Singh,M,123868,abc,Dadanpur,Bhindi,Anil,,11-Sep-15,33,5,165
+Ramkali Devi,M,123869,abc,Dadanpur,Bhindi,Anil,,11-Sep-15,17,5,85
+Wakil Sahni,M,123870,abc,Dadanpur,Bhindi,Anil,,11-Sep-15,91,5,455
+Champa Devi,M,123871,abc,Dadanpur,Bhindi,Anil,,11-Sep-15,19,5,95
+Bhola Sahni,M,123872,abc,Larua,Bhindi,Anil,,11-Sep-15,25,5,125
+Asha Devi,M,123873,abc,Larua,Kundri,Anil,,11-Sep-15,15,5,75
+Geeta Devi,M,123874,abc,Larua,Bhindi,Anil,,11-Sep-15,10,5,50
+,M,123875,abc,,,Anil,,,,,0
+Ashok Singh,M,123876,abc,Dadanpur,Bhindi,Anil,,12-Sep-15,11,5,55
+Ramkali Devi,M,123877,abc,Dadanpur,Bhindi,Anil,,12-Sep-15,4,5,20
+Indu Devi,M,123878,abc,Dadanpur,Bhindi,Anil,,12-Sep-15,5,5,25
+Shanti Devi,M,123879,abc,Dadanpur,Bhindi,Anil,,12-Sep-15,10,5,50
+Shanti Devi,M,123880,abc,Dadanpur,Nenua,Anil,,12-Sep-15,2.5,4,10
+Uday Singh,M,123881,abc,Dadanpur,Mircha,Anil,,12-Sep-15,1.5,35,52.5
+Nilam Devi,M,123882,abc,Dadanpur,Bhindi,Anil,,12-Sep-15,17,5,85
+Asha Devi,M,123883,abc,Dadanpur,Kundri,Anil,,12-Sep-15,26,5,130
+Hari Sahni,M,123884,abc,Dadanpur,Bhindi,Anil,,12-Sep-15,84,5,420
+Hari Sahni,M,123885,abc,Dadanpur,Nenua,Anil,,12-Sep-15,14,3,42
+Rukmani Devi,M,123886,abc,Larua,Plantain,Anil,,12-Sep-15,25,10,250
+Geeta Devi,M,123887,abc,Larua,Mircha,Anil,,12-Sep-15,7.5,35,262.5
+,M,123888,abc,,,Anil,,,,,0
+Ramkali Devi,M,123889,abc,Dadanpur,Bhindi,Anil,,13-Sep-15,14.5,4,58
+Renu Devi,M,123890,abc,Dadanpur,Bhindi,Anil,,13-Sep-15,8,4,32
+Pinki Devi,M,123891,abc,Dadanpur,Bhindi,Anil,,13-Sep-15,4,4,16
+Bhagmania Devi,M,123892,abc,Dadanpur,Bhindi,Anil,,13-Sep-15,25.5,4,102
+Nirmala Devi,M,123893,abc,Dadanpur,Bhindi,Anil,,13-Sep-15,18,4,72
+Champa Devi,M,123894,abc,Dadanpur,Bhindi,Anil,,13-Sep-15,12,4,48
+Ramdulari Devi,M,123895,abc,Dadanpur,Saag,Anil,,13-Sep-15,25,4,100
+Kula Devi,M,123896,abc,Dadanpur,Bhindi,Anil,,13-Sep-15,35,4,140
+Shakunti Devi,M,123897,abc,Dadanpur,Jhinga,Anil,,13-Sep-15,20,3,60
+Wakil Sahni,M,123898,abc,Dadanpur,Bhindi,Anil,,13-Sep-15,94,4,376
+Bhola Sahni,M,123899,abc,Larua,Bhindi,Anil,,13-Sep-15,25,4,100
+Geeta Devi,M,123900,abc,Larua,Bhindi,Anil,,13-Sep-15,10,4,40
+,M,123901,abc,,,Anil,,,,,0
+Renu Devi,M,123902,abc,Dadanpur,Saag,Anil,,14-Sep-15,6,3,18
+Renu Devi,M,123903,abc,Dadanpur,Jhinga,Anil,,14-Sep-15,1,4,4
+Renu Devi,M,123904,abc,Dadanpur,Nenua,Anil,,14-Sep-15,5.5,3,16.5
+Harender Sahni,M,123905,abc,Dadanpur,Jhinga,Anil,,14-Sep-15,5.5,4,22
+Nilam Devi,M,123906,abc,Dadanpur,Bhindi,Anil,,14-Sep-15,8,4,32
+Hari Sahni,M,123907,abc,Dadanpur,Bhindi,Anil,,14-Sep-15,81,4,324
+Shanti Devi,M,123908,abc,Dadanpur,Bhindi,Anil,,14-Sep-15,5,4,20
+Shanti Devi,M,123909,abc,Dadanpur,Nenua,Anil,,14-Sep-15,5,3,15
+Kula Devi,M,123910,abc,Dadanpur,Bhindi,Anil,,14-Sep-15,9,4,36
+Ashok Singh,M,123911,abc,Dadanpur,Bhindi,Anil,,14-Sep-15,7,4,28
+Pramila Devi,M,123912,abc,Larua,Jhinga,Anil,,14-Sep-15,15,4,60
+Priyanka Devi,M,123913,abc,Larua,Kundri,Anil,,14-Sep-15,10,5,50
+Nandan Sahni,M,123914,abc,Larua,Bhindi,Anil,,14-Sep-15,25,4,100
+,M,123915,abc,,,Anil,,,,,0
+Nirmala Devi,M,123916,abc,Dadanpur,Bhindi,Anil,,15-Sep-15,15,3,45
+Bhagmania Devi,M,123917,abc,Dadanpur,Bhindi,Anil,,15-Sep-15,23,3,69
+Santlal Shah,M,123918,abc,Dadanpur,Pointed Gourd,Anil,,15-Sep-15,4.5,12,54
+Pinki Devi,M,123919,abc,Dadanpur,Bhindi,Anil,,15-Sep-15,4,3,12
+Ramkali Devi,M,123920,abc,Dadanpur,Bhindi,Anil,,15-Sep-15,15,3,45
+Indu Devi,M,123921,abc,Dadanpur,Bhindi,Anil,,15-Sep-15,4,3,12
+Manju Devi,M,123922,abc,Dadanpur,Bhindi,Anil,,15-Sep-15,26,3,78
+Manju Devi,M,123923,abc,Dadanpur,Saag,Anil,,15-Sep-15,2.5,2,5
+Ramdulari Devi,M,123924,abc,Dadanpur,Saag,Anil,,15-Sep-15,35,2,70
+Wakil Sahni,M,123925,abc,Dadanpur,Bhindi,Anil,,15-Sep-15,108,3,324
+Champa Devi,M,123926,abc,Dadanpur,Bhindi,Anil,,15-Sep-15,25,3,75
+Geeta Devi,M,123927,abc,Larua,Bhindi,Anil,,15-Sep-15,12,3,36
+Bhola Sahni,M,123928,abc,Larua,Bhindi,Anil,,15-Sep-15,22,3,66
+,M,123929,abc,,,Anil,,,,,0
+Krishna Devi,M,123930,abc,Dadanpur,Bhindi,Anil,,16-Sep-15,13.5,3,40.5
+Ashok Singh,M,123931,abc,Dadanpur,Bhindi,Anil,,16-Sep-15,7,3,21
+Nilam Devi,M,123932,abc,Dadanpur,Bhindi,Anil,,16-Sep-15,12,3,36
+Shanti Devi,M,123933,abc,Dadanpur,Bhindi,Anil,,16-Sep-15,5.5,3,16.5
+Shanti Devi,M,123934,abc,Dadanpur,Nenua,Anil,,16-Sep-15,6,2,12
+Sabita Devi,M,123935,abc,Dadanpur,Jhinga,Anil,,16-Sep-15,6.5,3,19.5
+Hari Sahni,M,123936,abc,Dadanpur,Bhindi,Anil,,16-Sep-15,91,3,273
+Nandan Sahni,M,123937,abc,Larua,Bhindi,Anil,,16-Sep-15,28,3,84
+Sita Devi,M,123938,abc,Larua,Bhindi,Anil,,16-Sep-15,15,3,45
+,M,123939,abc,,,Anil,,,,,0
+Sushila Devi,M,123940,abc,Dadanpur,Bean,Anil,,17-Sep-15,2.5,4,10
+Nirmala Devi,M,123941,abc,Dadanpur,Bhindi,Anil,,17-Sep-15,15,3,45
+Ramkali Devi,M,123942,abc,Dadanpur,Bhindi,Anil,,17-Sep-15,8,3,24
+Bhagmania Devi,M,123943,abc,Dadanpur,Bhindi,Anil,,17-Sep-15,14,3,42
+Rajbati Devi,M,123944,abc,Dadanpur,Bhindi,Anil,,17-Sep-15,5,3,15
+Wakil Sahni,M,123945,abc,Dadanpur,Bhindi,Anil,,17-Sep-15,68,3,204
+Basant Pandit,M,123946,abc,Dadanpur,Bhindi,Anil,,17-Sep-15,23,3,69
+Bhola Singh,M,123947,abc,Larua,Bhindi,Anil,,17-Sep-15,25,3,75
+Geeta Devi,M,123948,abc,Larua,Bhindi,Anil,,17-Sep-15,18,3,54
+,M,123949,abc,,,Anil,,,,,0
+Krishna Devi,M,123950,abc,Dadanpur,Bhindi,Anil,,18-Sep-15,17,3,51
+Krishna Devi,M,123951,abc,Dadanpur,Nenua,Anil,,18-Sep-15,9,2,18
+Harendra Sahni,M,123952,abc,Dadanpur,Bhindi,Anil,,18-Sep-15,3.5,3,10.5
+Sarpanch Sahni,M,123953,abc,Dadanpur,Bhindi,Anil,,18-Sep-15,17,3,51
+Nilam Devi,M,123954,abc,Dadanpur,Bhindi,Anil,,18-Sep-15,7,3,21
+Asha Devi,M,123955,abc,Dadanpur,Brinjal,Anil,,18-Sep-15,110,10,1100
+Hari Sahni,M,123956,abc,Dadanpur,Bhindi,Anil,,18-Sep-15,62,3,186
+Nand Sahni,M,123957,abc,Larua,Bhindi,Anil,,18-Sep-15,25,3,75
+Sita Devi,M,123958,abc,Larua,Bhindi,Anil,,18-Sep-15,14,3,42
+,M,123959,abc,,,Anil,,,,,
+Ramkali Devi,M,123960,abc,Dadanpur,Bhindi,Anil,,19-Sep-15,3,3,9
+Nirmala Devi,M,123961,abc,Dadanpur,Bhindi,Anil,,19-Sep-15,14,3,42
+Nirmala Devi,M,123962,abc,Dadanpur,Nenua,Anil,,19-Sep-15,10,2,20
+Renu Devi,M,123963,abc,Dadanpur,Bhindi,Anil,,19-Sep-15,7,3,21
+Asha Devi,M,123964,abc,Dadanpur,Kundri,Anil,,19-Sep-15,102,4,408
+Manju Devi,M,123965,abc,Dadanpur,Bhindi,Anil,,19-Sep-15,23,3,69
+Wakil Sahni,M,123966,abc,Dadanpur,Bhindi,Anil,,19-Sep-15,64,3,192
+Bhola Sahni,M,123967,abc,Larua,Bhindi,Anil,,19-Sep-15,23,3,69
+Gita Devi,M,123968,abc,Larua,Bhindi,Anil,,19-Sep-15,16,3,48
+,M,123969,abc,,,Anil,,,,,
+Uday Narayan Singh,M,123970,abc,Dadanpur,Bhindi,Anil,,20-Sep-15,25,3,75
+Champa Devi,M,123971,abc,Dadanpur,Mircha,Anil,,20-Sep-15,3.5,19,66.5
+Akli Devi,M,123972,abc,Dadanpur,Saag,Anil,,20-Sep-15,7,2,14
+Akli Devi,M,123973,abc,Dadanpur,Kundri,Anil,,20-Sep-15,1.5,3,4.5
+Krishna Devi,M,123974,abc,Dadanpur,Bhindi,Anil,,20-Sep-15,15,3,45
+Sarpanch Sahni,M,123975,abc,Dadanpur,Bhindi,Anil,,20-Sep-15,16.5,3,49.5
+Rajni Devi,M,123976,abc,Dadanpur,Saag,Anil,,20-Sep-15,2,2,4
+Hari Sahni,M,123977,abc,Dadanpur,Bhindi,Anil,,20-Sep-15,55,3,165
+Sanju Devi,M,123978,abc,Dadanpur,Nenua,Anil,,20-Sep-15,8,2,16
+Munnar Devi,M,123979,abc,Dadanpur,Nenua,Anil,,20-Sep-15,8,2,16
+Wakil Sahni,M,123980,abc,Dadanpur,Sag,Anil,,20-Sep-15,12.5,2,25
+Asha Devi,M,123981,abc,Dadanpur,Kundri,Anil,,20-Sep-15,105,3,315
+Nandan Sahni,M,123982,abc,Larua,Bhindi,Anil,,20-Sep-15,25,3,75
+Gita Devi ,M,123983,abc,Larua,Bhindi,Anil,,20-Sep-15,21,3,63
+Asha Devi,M,123984,abc,Larua,Kundri,Anil,,20-Sep-15,42,3,126
+,M,123985,abc,,,Anil,,,,,0
+Nirmala Devi,M,123986,abc,Dadanpur,Bhindi,Anil,,21-Sep-15,6,3,18
+Harendra Sahni,M,123987,abc,Dadanpur,Jhinga,Anil,,21-Sep-15,4,2,8
+Rajbati Devi,M,123988,abc,Dadanpur,Bhindi,Anil,,21-Sep-15,3,3,9
+Bhagwania Devi,M,123989,abc,Dadanpur,Bhindi,Anil,,21-Sep-15,17,3,51
+Indu Devi,M,123990,abc,Dadanpur,Bhindi,Anil,,21-Sep-15,5,3,15
+Renu Devi,M,123991,abc,Dadanpur,Bhindi,Anil,,21-Sep-15,5,3,15
+Uday Singh,M,123992,abc,Dadanpur,Mircha,Anil,,21-Sep-15,0.4,20,8
+,M,123993,abc,,,Anil,,,,,0
+Krishna Devi,M,123994,abc,Dadanpur,Bhindi,Anil,,22-Sep-15,15,4,60
+Krishna Devi,M,123995,abc,Dadanpur,Nenua,Anil,,22-Sep-15,7,2,14
+Nilam Devi,M,123996,abc,Dadanpur,Bhindi,Anil,,22-Sep-15,7,4,28
+Hari Sahni,M,123997,abc,Dadanpur,Bhindi,Anil,,22-Sep-15,60,4,240
+Rajni Devi,M,123998,abc,Dadanpur,Saag,Anil,,22-Sep-15,7,2,14
+Asha Devi,M,123999,abc,Dadanpur,Brinjal,Anil,,22-Sep-15,175,7,1225
+Santlal Shah,M,124000,abc,Dadanpur,Pointed Gourd,Anil,,22-Sep-15,6,12,72
+Nand Sahni,M,124001,abc,Larua,Bhindi,Anil,,22-Sep-15,25,4,100
+Sita Devi,M,124002,abc,Larua,Bhindi,Anil,,22-Sep-15,15,4,60
+Naresh Sahni,M,124003,abc,Larua,Kundri,Anil,,22-Sep-15,50,3,150
+,M,124004,abc,,,Anil,,,,,0
+Nirmala Devi,M,124005,abc,Dadanpur,Bhindi,Anil,,23-Sep-15,5.25,5,26.25
+Harendra Sahni,M,124006,abc,Dadanpur,Jhinga,Anil,,23-Sep-15,3.5,2,7
+Wakil Sahni,M,124007,abc,Dadanpur,Bhindi,Anil,,23-Sep-15,60,5,300
+Manju Devi,M,124008,abc,Dadanpur,Bhindi,Anil,,23-Sep-15,17,5,85
+Kanti Devi,M,124009,abc,Dadanpur,Brinjal,Anil,,23-Sep-15,32,6,192
+Bhola Sahni,M,124010,abc,Larua,Bhindi,Anil,,23-Sep-15,25,5,125
+Gita Devi,M,124011,abc,Larua,Bhindi,Anil,,23-Sep-15,15,5,75
+,M,124012,abc,,,Anil,,,,,0
+Nand Sahni,M,124013,abc,Larua,Bhindi,Anil,,24-Sep-15,25,5,125
+Gita Devi,M,124014,abc,Larua,Bhindi,Anil,,24-Sep-15,10,5,50
+Naresh Sahni,M,124015,abc,Larua,Kundri,Anil,,24-Sep-15,25,3,75
+Uday Narayan Singh,M,124016,abc,Dadanpur,Saag,Anil,,24-Sep-15,37,2,74
+Uday Narayan Singh,M,124017,abc,Dadanpur,Bhindi,Anil,,24-Sep-15,2,6,12
+Krishna Devi,M,124018,abc,Dadanpur,Bhindi,Anil,,24-Sep-15,13,6,78
+Krishna Devi,M,124019,abc,Dadanpur,Nenua,Anil,,24-Sep-15,1.5,2,3
+Ramkali Devi,M,124020,abc,Dadanpur,Bhindi,Anil,,24-Sep-15,2.5,6,15
+Nilam Devi,M,124021,abc,Dadanpur,Bhindi,Anil,,24-Sep-15,5,6,30
+Praveen Kumar,M,124022,abc,Banbira,Brinjal,Anil,,24-Sep-15,73,7,511
+Sabita Devi,M,124023,abc,Dadanpur,Jhinga,Anil,,24-Sep-15,9,2,18
+,M,124024,abc,,,Anil,,,,,0
+Nirmala Devi,M,124025,abc,Dadanpur,Bhindi,Anil,,25-Sep-15,4,7,28
+Sarpanch Sahni,M,124026,abc,Dadanpur,Bhindi,Anil,,25-Sep-15,8,7,56
+Sangita Devi,M,124027,abc,Dadanpur,Bhindi,Anil,,25-Sep-15,2,7,14
+Indu Devi,M,124028,abc,Dadanpur,Bhindi,Anil,,25-Sep-15,2.5,7,17.5
+Kanti Devi,M,124029,abc,Dadanpur,Brinjal,Anil,,25-Sep-15,43,7,301
+Rajbati Devi,M,124030,abc,Dadanpur,Bhindi,Anil,,25-Sep-15,2.5,7,17.5
+Wakil Sahni,M,124031,abc,Dadanpur,Bhindi,Anil,,25-Sep-15,48,7,336
+Praveen Kumar,M,124032,abc,Banbira,Bhindi,Anil,,25-Sep-15,8,7,56
+Asha Devi,M,124033,abc,Dadanpur,Kundri,Anil,,25-Sep-15,43,3,129
+Bhola Sahni,M,124034,abc,Larua,Bhindi,Anil,,25-Sep-15,20,7,140
+Gita Devi,M,124035,abc,Larua,Bhindi,Anil,,25-Sep-15,15,7,105
+,M,124036,abc,,,Anil,,,,,0
+Nand Sahni,M,124037,abc,Larua,Bhindi,Anil,,26-Sep-15,22,8,176
+Gita Devi,M,124038,abc,Larua,Bhindi,Anil,,26-Sep-15,10,8,80
+Ramdulari Devi,M,124039,abc,Dadanpur,Saag,Anil,,26-Sep-15,20,2,40
+Hari Sahni,M,124040,abc,Dadanpur,Bhindi,Anil,,26-Sep-15,25,8,200
+Nilam Devi,M,124041,abc,Dadanpur,Bhindi,Anil,,26-Sep-15,5,8,40
+Krishna Devi,M,124042,abc,Dadanpur,Bhindi,Anil,,26-Sep-15,15,8,120
+Krishna Devi,M,124043,abc,Dadanpur,Mircha,Anil,,26-Sep-15,1,30,30
+Praveen Kumar,M,124044,abc,Dadanpur,Brinjal,Anil,,26-Sep-15,22,8,176
+Asha Devi,M,124045,abc,Dadanpur,Brinjal,Anil,,26-Sep-15,155,8,1240
+Asha Devi,M,124046,abc,Dadanpur,Kundri,Anil,,26-Sep-15,52,4,208
+Sangita Devi,M,124047,abc,Dadanpur,Bhindi,Anil,,26-Sep-15,0.5,8,4
+,M,124048,abc,,,Anil,,,,,0
+Ramdulari Devi,M,124049,abc,Dadanpur,Saag,Anil,,27-Sep-15,19,3,57
+Renu Devi,M,124050,abc,Dadanpur,Bhindi,Anil,,27-Sep-15,3.5,8,28
+Nirmala devi,M,124051,abc,Dadanpur,Bhindi,Anil,,27-Sep-15,2.5,8,20
+Wakil Sahni,M,124052,abc,Dadanpur,Bhindi,Anil,,27-Sep-15,49,8,392
+Sangita Devi,M,124053,abc,Dadanpur,Bhindi,Anil,,27-Sep-15,1,8,8
+Champa Devi,M,124054,abc,Dadanpur,Bhindi,Anil,,27-Sep-15,10,8,80
+Bhola Sahni,M,124055,abc,Larua,Bhindi,Anil,,27-Sep-15,18,8,144
+Gita Devi,M,124056,abc,Larua,Bhindi,Anil,,27-Sep-15,12,8,96
+,M,124057,abc,,,Anil,,,,,0
+Indu Devi,M,124058,abc,Dadanpur,Bhindi,Anil,,28-Sep-15,3,8,24
+Sarpanch Sahni,M,124059,abc,Dadanpur,Bhindi,Anil,,28-Sep-15,8.5,8,68
+Hari Sahni,M,124060,abc,Dadanpur,Bhindi,Anil,,28-Sep-15,3,8,24
+Sushila Devi,M,124061,abc,Dadanpur,Bhindi,Anil,,28-Sep-15,7,8,56
+Krishna Devi,M,124062,abc,Dadanpur,Bhindi,Anil,,28-Sep-15,10,8,80
+Asha Devi,M,124063,abc,Dadanpur,Kundri,Anil,,28-Sep-15,80,4,320
+Nilam Devi,M,124064,abc,Dadanpur,Bhindi,Anil,,28-Sep-15,6,8,48
+,M,124065,abc,,,Anil,,,,,0
+Nirmala Devi,M,124066,abc,Dadanpur,Bhindi,Anil,,29-Sep-15,1.5,8,12
+Sangita Devi,M,124067,abc,Dadanpur,Bhindi,Anil,,29-Sep-15,1.5,8,12
+Renu Devi,M,124068,abc,Dadanpur,Bhindi,Anil,,29-Sep-15,4,8,32
+Rajni Devi,M,124069,abc,Dadanpur,Bhindi,Anil,,29-Sep-15,1,8,8
+Kanti Devi,M,124070,abc,Dadanpur,Brinjal,Anil,,29-Sep-15,64,8,512
+Prabhu Sahni,M,124071,abc,Dadanpur,Bhindi,Anil,,29-Sep-15,9,8,72
+Prabhu Sahni,M,124072,abc,Dadanpur,Bean,Anil,,29-Sep-15,4,6,24
+Wakil Sahni,M,124073,abc,Dadanpur,Bhindi,Anil,,29-Sep-15,27.5,8,220
+,M,124074,abc,,,Anil,,,,,0
+Rajo Sahni,M,124075,abc,Dadanpur,Mircha,Anil,,30-Sep-15,4,30,120
+Kanti Devi,M,124076,abc,Dadanpur,Brinjal,Anil,,30-Sep-15,30,8,240
+Krishna Devi,M,124077,abc,Dadanpur,Bhindi,Anil,,30-Sep-15,15,8,120
+Hari Sahni,M,124078,abc,Dadanpur,Bhindi,Anil,,30-Sep-15,45,8,360
+Indu Devi,M,124079,abc,Dadanpur,Bhindi,Anil,,30-Sep-15,1.5,8,12
+Akli Devi,M,124080,abc,Dadanpur,Saag,Anil,,30-Sep-15,8,4,32
+,M,124081,abc,,,Anil,,,,,0
+Nirmala Devi,M,124082,abc,Dadanpur,Bhindi,Anil,,1-Oct-15,1.5,8,12
+Rajbati Devi,M,124083,abc,Dadanpur,Bhindi,Anil,,1-Oct-15,1,8,8
+Sangita Devi,M,124084,abc,Dadanpur,Bhindi,Anil,,1-Oct-15,1.5,8,12
+Prabhu Sahni,M,124085,abc,Dadanpur,Bhindi,Anil,,1-Oct-15,6,8,48
+Harendra Sahni,M,124086,abc,Dadanpur,Jhinga,Anil,,1-Oct-15,1.5,10,15
+Nilam Devi,M,124087,abc,Dadanpur,Bhindi,Anil,,1-Oct-15,5,8,40
+Ramdulari Devi,M,124088,abc,Dadanpur,Brinjal,Anil,,1-Oct-15,11,8,88
+Wakil Sahni,M,124089,abc,Dadanpur,Bhindi,Anil,,1-Oct-15,10,8,80
+Indu Devi,M,124090,abc,Dadanpur,Kundri,Anil,,1-Oct-15,2,5,10
+Asha Devi,M,124091,abc,Dadanpur,Brinjal,Anil,,1-Oct-15,293.5,8,2348
+Sunita Devi,M,124092,abc,Dadanpur,Mircha,Anil,,1-Oct-15,2.25,28,63
+,M,124093,abc,,,Anil,,,,,0
+Sanju Devi,M,124094,abc,Dadanpur,Nenua,Anil,,2-Oct-15,8.5,6,51
+Champa Devi,M,124095,abc,Dadanpur,Bhindi,Anil,,2-Oct-15,11.5,8,92
+Krishna Devi,M,124096,abc,Dadanpur,Bhindi,Anil,,2-Oct-15,16,8,128
+Krishna Devi,M,124097,abc,Dadanpur,Mircha,Anil,,2-Oct-15,1,28,28
+Krishna Devi,M,124098,abc,Dadanpur,Bean,Anil,,2-Oct-15,4,5,20
+Indu Devi,M,124099,abc,Dadanpur,Bhindi,Anil,,2-Oct-15,1,8,8
+,M,124100,abc,,,Anil,,,,,0
+Janki Devi,M,124101,abc,Dadanpur,Kundri,Anil,,3-Oct-15,26,7,182
+Sushila Devi,M,124102,abc,Dadanpur,Bhindi,Anil,,3-Oct-15,5,11,55
+Nirmala Devi,M,124103,abc,Dadanpur,Bhindi,Anil,,3-Oct-15,2,11,22
+Pramod Kumar,M,124104,abc,Dadanpur,Mircha,Anil,,3-Oct-15,6,28,168
+Santosh Kumar,M,124105,abc,Dadanpur,Mircha,Anil,,3-Oct-15,5,28,140
+Wakil Sahni,M,124106,abc,Dadanpur,Bhindi,Anil,,3-Oct-15,32,11,352
+,M,124107,abc,,,Anil,,,,,0
+Krishna Devi,M,124108,abc,Dadanpur,Bhindi,Anil,,4-Oct-15,8,9,72
+Asha Devi,M,124109,abc,Dadanpur,Bhindi,Anil,,4-Oct-15,28,9,252
+Asha Devi,M,124110,abc,Dadanpur,Cucumber,Anil,,4-Oct-15,10,22,220
+Indu Devi,M,124111,abc,Dadanpur,Bhindi,Anil,,4-Oct-15,1,9,9
+Champa Devi,M,124112,abc,Dadanpur,Bhindi,Anil,,4-Oct-15,16,9,144
+Kanti Devi,M,124113,abc,Dadanpur,Brinjal,Anil,,4-Oct-15,28,10,280
+Praveen Kumar,M,124114,abc,Banbira,Brinjal,Anil,,4-Oct-15,66,10,660
+,M,124115,abc,,,Anil,,,,,0
+Nirmala Devi,M,124116,abc,Dadanpur,Bhindi,Anil,,5-Oct-15,2,9,18
+Ramchandra Singh,M,124117,abc,Dadanpur,Bhindi,Anil,,5-Oct-15,1.5,9,13.5
+Santlal Singh,M,124118,abc,Dadanpur,Pointed Gourd,Anil,,5-Oct-15,11,17,187
+Sushila Devi,M,124119,abc,Dadanpur,Bean,Anil,,5-Oct-15,2,10,20
+Sushila Devi,M,124120,abc,Dadanpur,Bhindi,Anil,,5-Oct-15,35,9,315
+Praveen Kumar,M,124121,abc,Banbira,Bhindi,Anil,,5-Oct-15,45,9,405
+Manju Devi,M,124122,abc,Dadanpur,Bhindi,Anil,,5-Oct-15,9,9,81
+Kanti Devi,M,124123,abc,Dadanpur,Brinjal,Anil,,5-Oct-15,15,10,150
+,M,124124,abc,,,Anil,,,,,0
+Uday Narayan Singh,M,124125,abc,Dadanpur,Saag,Anil,,6-Oct-15,17,3,51
+Shanti Devi,M,124126,abc,Dadanpur,Nenua,Anil,,6-Oct-15,3,5,15
+Asha Devi,M,124127,abc,Dadanpur,Brinjal,Anil,,6-Oct-15,173,12,2076
+Champa Devi,M,124128,abc,Dadanpur,Bhindi,Anil,,6-Oct-15,15,11,165
+Praveen Kumar,M,124129,abc,Banbira,Brinjal,Anil,,6-Oct-15,64,12,768
+Kanti Devi,M,124130,abc,Dadanpur,Brinjal,Anil,,6-Oct-15,25,12,300
+Aala Devi,M,124131,abc,Dadanpur,Bhindi,Anil,,6-Oct-15,9.5,11,104.5
+,M,124132,abc,,,Anil,,,,,0
+Ramchandra Singh,M,124133,abc,Dadanpur,Bhindi,Anil,,7-Oct-15,1,10,10
+Wakil Sahni,M,124134,abc,Dadanpur,Mircha,Anil,,7-Oct-15,3.5,30,105
+Santlal Singh,M,124135,abc,Dadanpur,Pointed Gourd,Anil,,7-Oct-15,3.5,13,45.5
+Nirmala Devi,M,124136,abc,Dadanpur,Bhindi,Anil,,7-Oct-15,2,10,20
+Sushila Devi,M,124137,abc,Dadanpur,Bhindi,Anil,,7-Oct-15,2.5,10,25
+Shyam Kumar Rai,M,124138,abc,Banbira,Bhindi,Anil,,7-Oct-15,8,10,80
+Praveen Kumar,M,124139,abc,Banbira,Bhindi,Anil,,7-Oct-15,34.5,10,345
+Guntar Devi,M,124140,abc,Dadanpur,Nenua,Anil,,7-Oct-15,6.5,5,32.5
+Kanti Devi,M,124141,abc,Dadanpur,Cauliflower,Anil,,7-Oct-15,20,30,600
+,M,124142,abc,,,Anil,,,,,0
+Wakil Sahni,M,124143,abc,Dadanpur,Bhindi,Anil,,8-Oct-15,10,11,110
+Lalmani Devi,M,124144,abc,Dadanpur,Bhindi,Anil,,8-Oct-15,8.5,11,93.5
+Asha Devi,M,124145,abc,Dadanpur,Bhindi,Anil,,8-Oct-15,13,11,143
+Uday Singh,M,124146,abc,Dadanpur,Saag,Anil,,8-Oct-15,6,5.5,33
+,M,124147,abc,,,Anil,,,,,0
+Nirmala Devi,M,124148,abc,Dadanpur,Bhindi,Anil,,9-Oct-15,2,11,22
+Sushila Devi,M,124149,abc,Dadanpur,Bhindi,Anil,,9-Oct-15,2,11,22
+Ramchandra Singh,M,124150,abc,Dadanpur,Bhindi,Anil,,9-Oct-15,3,11,33
+Bibha Devi,M,124151,abc,Dadanpur,Saag,Anil,,9-Oct-15,9,7,63
+Manju Devi,M,124152,abc,Dadanpur,Bhindi,Anil,,9-Oct-15,8,11,88
+Praveen Kumar,M,124153,abc,Dadanpur,Bhindi,Anil,,9-Oct-15,51,11,561
+,M,124154,abc,,,Anil,,,,,0
+Janki Devi,M,124155,abc,Dadanpur,Kundri,Anil,,10-Oct-15,11,6,66
+Asha Devi,M,124156,abc,Dadanpur,Kundri,Anil,,10-Oct-15,77,6,462
+Asha Devi,M,124157,abc,Dadanpur,Brinjal,Anil,,10-Oct-15,142,14,1988
+Kedar Singh,M,124158,abc,Dadanpur,Pumpkin,Anil,,10-Oct-15,21,10,210
+Neelam Devi,M,124159,abc,Dadanpur,Bhindi,Anil,,10-Oct-15,4,10,40
+Wakil Sahni,M,124160,abc,Dadanpur,Bhindi,Anil,,10-Oct-15,3,10,30
+Praveen Kumar,M,124161,abc,Dadanpur,Brinjal,Anil,,10-Oct-15,107,14,1498
+,M,124162,abc,,,Anil,,,,,0
+Kanti Devi,M,124163,abc,Dadanpur,Brinjal,Anil,,11-Oct-15,34.5,10,345
+Ramdulari Devi,M,124164,abc,Dadanpur,Kaddu,Anil,,11-Oct-15,6,5,30
+Ramchandra Singh,M,124165,abc,Dadanpur,Bhindi,Anil,,11-Oct-15,2.5,10,25
+Ramchandra Singh,M,124166,abc,Dadanpur,Ol,Anil,,11-Oct-15,4,10,40
+Nirmala Devi,M,124167,abc,Dadanpur,Bhindi,Anil,,11-Oct-15,2,10,20
+Sushila Devi,M,124168,abc,Dadanpur,Bhindi,Anil,,11-Oct-15,2.5,10,25
+Indu Devi,M,124169,abc,Dadanpur,Kundri,Anil,,11-Oct-15,1.5,6,9
+Sanju Devi,M,124170,abc,Dadanpur,Nenua,Anil,,11-Oct-15,7,4,28
+Hari Sahni,M,124171,abc,Dadanpur,Bhindi,Anil,,11-Oct-15,21.5,10,215
+Praveen Kumar,M,124172,abc,Dadanpur,Bhindi,Anil,,11-Oct-15,62,10,620
+Praveen Kumar,M,124173,abc,Dadanpur,Brinjal,Anil,,11-Oct-15,48.5,11,533.5
+,M,124174,abc,,,Anil,,,,,0
+,M,124175,abc,Off due to Election in Samastipur,,Anil,,12-Oct-15,,,0
+,M,124176,abc,,,Anil,,,,,0
+Nirmala Devi,M,124177,abc,Dadanpur,Bhindi,Anil,,13-Oct-15,22,9,198
+Santlal Shah,M,124178,abc,Dadanpur,Pointed Gourd,Anil,,13-Oct-15,7,13,91
+Sangita Devi,M,124179,abc,Dadanpur,Pumpkin,Anil,,13-Oct-15,21,5,105
+Hari Sahni,M,124180,abc,Dadanpur,Bhindi,Anil,,13-Oct-15,33,9,297
+Ala Devi,M,124181,abc,Dadanpur,Bhindi,Anil,,13-Oct-15,11,9,99
+Wakil Sahni,M,124182,abc,Dadanpur,Cauliflower,Anil,,13-Oct-15,10,30,300
+Wakil Sahni,M,124183,abc,Dadanpur,Bhindi,Anil,,13-Oct-15,3.5,9,31.5
+Ramchandra Singh,M,124184,abc,Dadanpur,Bhindi,Anil,,13-Oct-15,4,9,36
+Praveen Kumar,M,124185,abc,Dadanpur,Bhindi,Anil,,13-Oct-15,69,9,621
+Praveen Kumar,M,124186,abc,Dadanpur,Brinjal,Anil,,13-Oct-15,70,10,700
+Sushila Devi,M,124187,abc,Dadanpur,Bhindi,Anil,,13-Oct-15,2.5,9,22.5
+,M,124188,abc,,,Anil,,,,,0
+Ramdulari Devi,M,124189,abc,Dadanpur,Saag,Anil,,14-Oct-15,2.5,4,10
+Bibha Devi,M,124190,abc,Dadanpur,Saag,Anil,,14-Oct-15,24,4,96
+Asha Devi,M,124191,abc,Dadanpur,Kundri,Anil,,14-Oct-15,56,5,280
+Sanju Devi,M,124192,abc,Dadanpur,Nenua,Anil,,14-Oct-15,8,4,32
+Praveen Kumar,M,124193,abc,Dadanpur,Brinjal,Anil,,14-Oct-15,42,10,420
+,M,124194,abc,,,Anil,,,,,0
+Nirmala Devi,M,124195,abc,Dadanpur,Bhindi,Anil,,15-Oct-15,2,9,18
+Ramchandra Singh,M,124196,abc,Dadanpur,Bhindi,Anil,,15-Oct-15,3,9,27
+Krishna Devi,M,124197,abc,Dadanpur,Bhindi,Anil,,15-Oct-15,4,9,36
+Sushila Devi,M,124198,abc,Dadanpur,Bhindi,Anil,,15-Oct-15,1.5,9,13.5
+Uday Singh,M,124199,abc,Dadanpur,Saag,Anil,,15-Oct-15,11,2.5,27.5
+Asha Devi,M,124200,abc,Dadanpur,Brinjal,Anil,,15-Oct-15,160,9,1440
+Ramdulari Devi,M,124201,abc,Dadanpur,Chilli,Anil,,15-Oct-15,4.5,22,99
+Praveen Kumar,M,124202,abc,Banbira,Bhindi,Anil,,15-Oct-15,115,9,1035
+,M,124203,abc,,,Anil,,,,,0
+Ramdulari Devi,M,124204,abc,Dadanpur,Ol (Yam),Anil,,16-Oct-15,9,9,81
+Kanti Devi,M,124205,abc,Dadanpur,Brinjal,Anil,,16-Oct-15,8,12,96
+Wakil Sahni,M,124206,abc,Dadanpur,Cauliflower,Anil,,16-Oct-15,18,24,432
+Wakil Sahni,M,124207,abc,Dadanpur,Bhindi,Anil,,16-Oct-15,4.5,8,36
+Asha Devi,M,124208,abc,Dadanpur,Brinjal,Anil,,16-Oct-15,156,12,1872
+,M,124209,abc,,,Anil,,,,,0
+Santlal Shah,M,124210,abc,Dadanpur,Pointed Gourd,Anil,,17-Oct-15,9.5,8,76
+Ala Devi,M,124211,abc,Dadanpur,Bhindi,Anil,,17-Oct-15,7.5,8,60
+Ramchandra Singh,M,124212,abc,Dadanpur,Bhindi,Anil,,17-Oct-15,3.5,8,28
+Sanju Devi,M,124213,abc,Dadanpur,Nenua,Anil,,17-Oct-15,6,5,30
+Indu Devi,M,124214,abc,Dadanpur,Kundri,Anil,,17-Oct-15,2.5,3,7.5
+Krishna Devi,M,124215,abc,Dadanpur,Bhindi,Anil,,17-Oct-15,3,10,30
+Dayabati Devi,M,124216,abc,Dadanpur,Kundri,Anil,,17-Oct-15,0.7,3,2.1
+Sabita Devi,M,124217,abc,Dadanpur,Louki,Anil,,17-Oct-15,2,8,16
+Nirmala Devi,M,124218,abc,Dadanpur,Bhindi,Anil,,17-Oct-15,1.5,7,10.5
+Ramdulari Devi,M,124219,abc,Dadanpur,Louki,Anil,,17-Oct-15,3,8,24
+Praveen Kumar,M,124220,abc,Banbira,Bhindi,Anil,,17-Oct-15,98,8,784
+,M,124221,abc,,,Anil,,,,,0
+Ramdulari Devi,M,124222,abc,Dadanpur,Radish,Anil,,18-Oct-15,14,7,98
+Sushila Devi,M,124223,abc,Dadanpur,Bhindi,Anil,,18-Oct-15,1.5,7,10.5
+Viswamohan Singh,M,124224,abc,Banbira,Plantain,Anil,,18-Oct-15,44,10,440
+Praveen Kumar,M,124225,abc,Banbira,Brinjal,Anil,,18-Oct-15,53,7.5,397.5
+Champa Devi,M,124226,abc,Dadanpur,Bhindi,Anil,,18-Oct-15,7,7,49
+,M,124227,abc,,,Anil,,,,,0
+Ramchandra Singh,M,124228,abc,Dadanpur,Bhindi,Anil,,19-Oct-15,2.5,7,17.5
+Bibha Devi,M,124229,abc,Dadanpur,Cauliflower,Anil,,19-Oct-15,3,24,72
+Sushila Devi,M,124230,abc,Dadanpur,Bean,Anil,,19-Oct-15,3.5,5,17.5
+Krishna Devi,M,124231,abc,Dadanpur,Saag,Anil,,19-Oct-15,8.5,2.5,21.25
+Krishna Devi,M,124232,abc,Dadanpur,Bhindi,Anil,,19-Oct-15,2,7,14
+Praveen Kumar,M,124233,abc,Dadanpur,Bhindi,Anil,,19-Oct-15,63,7,441
+Praveen Kumar,M,124234,abc,Banbira,Brinjal,Anil,,19-Oct-15,29,6,174
+Wakil Sahni,M,124235,abc,Dadanpur,Cauliflower,Anil,,19-Oct-15,46,24,1104
+Sabita Devi,M,124236,abc,Dadanpur,Louki,Anil,,19-Oct-15,2,8,16
+Janki Devi,M,124237,abc,Dadanpur,Kundri,Anil,,19-Oct-15,33,3,99
+Janki Devi,M,124238,abc,Dadanpur,Radish,Anil,,19-Oct-15,6,4,24
+Janki Devi,M,124239,abc,Dadanpur,Saag,Anil,,19-Oct-15,8,2.5,20
+,M,124240,abc,,,Anil,,,,,0
+Asha Devi,M,124241,abc,Dadanpur,Brinjal,Anil,,20-Oct-15,71,8,568
+Praveen Kumar,M,124242,abc,Banbira,Bhindi,Anil,,20-Oct-15,63,6,378
+Praveen Kumar,M,124243,abc,Banbira,Brinjal,Anil,,20-Oct-15,29,8,232
+Bibha Devi,M,124244,abc,Dadanpur,Radish,Anil,,20-Oct-15,13,6,78
+,M,124245,abc,,,Anil,,,,,0
+Ramchandra Singh,M,124246,abc,Dadanpur,Bhindi,Anil,,21-Oct-15,4,7,28
+Asha Devi,M,124247,abc,Dadanpur,Bhindi,Anil,,21-Oct-15,65,7,455
+Bibha Devi,M,124248,abc,Dadanpur,Cauliflower,Anil,,21-Oct-15,3,23,69
+Bibha Devi,M,124249,abc,Dadanpur,Saag,Anil,,21-Oct-15,13,3,39
+Krishna Devi,M,124250,abc,Dadanpur,Bhindi,Anil,,21-Oct-15,2,7,14
+Sabita Devi,M,124251,abc,Dadanpur,Bhindi,Anil,,21-Oct-15,4.5,7,31.5
+Wakil Sahni,M,124252,abc,Dadanpur,Cauliflower,Anil,,21-Oct-15,55,23,1265
+Praveen Kumar,M,124253,abc,Banbira,Bhindi,Anil,,21-Oct-15,49,7,343
+,M,124254,abc,,,Anil,,,,,0
+Praveen Kumar,M,124255,abc,Banbira,Bhindi,Anil,,22-Oct-15,66,4,264
+Sushila Devi,M,124256,abc,Dadanpur,Bhindi,Anil,,22-Oct-15,2,4,8
+Wakil Sahni,M,124257,abc,Dadanpur,Bhindi,Anil,,22-Oct-15,6,4,24
+Ramdulari Devi,M,124258,abc,Dadanpur,Brinjal,Anil,,22-Oct-15,22,6,132
+Kanti Devi,M,124259,abc,Dadanpur,Brinjal,Anil,,22-Oct-15,25,6,150
+Asha Devi,M,124260,abc,Dadanpur,Kundri,Anil,,22-Oct-15,85,3,255
+,M,124261,abc,,,Anil,,,,,0
+Wakil Sahni,M,124262,abc,Dadanpur,Cauliflower,Anil,,23-Oct-15,70,16,1120
+Praveen Kumar,M,124263,abc,Banbira,Bhindi,Anil,,23-Oct-15,70,5,350
+Asha Devi,M,124264,abc,Dadanpur,Bhindi,Anil,,23-Oct-15,24,5,120
+Champa Devi,M,124265,abc,Dadanpur,Bhindi,Anil,,23-Oct-15,15,5,75
+Manju Devi,M,124266,abc,Dadanpur,Bhindi,Anil,,23-Oct-15,10,5,50
+Manju Devi,M,124267,abc,Dadanpur,Louki,Anil,,23-Oct-15,2,7,14
+,M,124268,abc,,,Anil,,,,,0
+Santlal Sah,M,124269,abc,Banbira,Pointed Gourd,Anil,,24-Oct-15,9,9,81
+Kanti Devi,M,124270,abc,Dadanpur,Brinjal,Anil,,24-Oct-15,4,5,20
+Rajbati Devi,M,124271,abc,Dadanpur,Saag,Anil,,24-Oct-15,8,2,16
+Bibha Devi,M,124272,abc,Dadanpur,Radish,Anil,,24-Oct-15,60,4,240
+Bibha Devi,M,124273,abc,Dadanpur,Cauliflower,Anil,,24-Oct-15,9,20,180
+Indu Devi,M,124274,abc,Dadanpur,Kundri,Anil,,24-Oct-15,2.5,3,7.5
+Ramdulari Devi,M,124275,abc,Dadanpur,Brinjal,Anil,,24-Oct-15,3.5,5,17.5
+Praveen Kumar,M,124276,abc,Banbira,Bhindi,Anil,,24-Oct-15,107,5,535
+Asha Devi,M,124277,abc,Dadanpur,Brinjal,Anil,,24-Oct-15,107,5,535
+Wakil Sahni,M,124278,abc,Dadanpur,Cauliflower,Anil,,24-Oct-15,81,19,1539
+,M,124279,abc,,,Anil,,,,,0
+Rajbati Devi,M,124280,abc,Dadanpur,Saag,Anil,,25-Oct-15,9,2,18
+Wakil Sahni,M,124281,abc,Dadanpur,Cauliflower,Anil,,25-Oct-15,77,15,1155
+Kanti Devi,M,124282,abc,Dadanpur,Brinjal,Anil,,25-Oct-15,5,5,25
+Manju Devi,M,124283,abc,Dadanpur,Bhindi,Anil,,25-Oct-15,8,5,40
+Ramchandra Singh,M,124284,abc,Dadanpur,Bhindi,Anil,,25-Oct-15,3.5,5,17.5
+Praveen Kumar,M,124285,abc,Dadanpur,Bhindi,Anil,,25-Oct-15,58.5,5,292.5
+Praveen Kumar,M,124286,abc,Banbira,Brinjal,Anil,,25-Oct-15,27,5,135
+,M,124287,abc,,,Anil,,,,,0
+Renu Devi,M,124288,abc,Dadanpur,Kundri,Anil,,26-Oct-15,1.5,3,4.5
+Asha Devi,M,124289,abc,Dadanpur,Kundri,Anil,,26-Oct-15,40,3,120
+Wakil Sahni,M,124290,abc,Dadanpur,Cauliflower,Anil,,26-Oct-15,52,15,780
+Praveen Kumar,M,124291,abc,Banbira,Bhindi,Anil,,26-Oct-15,55,5,275
+Champa Devi,M,124292,abc,Dadanpur,Bhindi,Anil,,26-Oct-15,11,5,55
+,M,124293,abc,,,Anil,,,,,0
+Janki Devi,M,124294,abc,Dadanpur,Louki,Anil,,27-Oct-15,5,6,30
+Wakil Sahni,M,124295,abc,Dadanpur,Cauliflower,Anil,,27-Oct-15,145,10,1450
+Rajbati Devi,M,124296,abc,Dadanpur,Saag,Anil,,27-Oct-15,7.5,2,15
+Ramchandra Singh,M,124297,abc,Dadanpur,Bhindi,Anil,,27-Oct-15,3.5,5,17.5
+Praveen Kumar,M,124298,abc,Banbira,Bhindi,Anil,,27-Oct-15,82,5,410
+Manju Devi,M,124299,abc,Dadanpur,Bhindi,Anil,,27-Oct-15,8,5,40
+Manju Devi,M,124300,abc,Dadanpur,Louki,Anil,,27-Oct-15,2,6,12
+Bibha Devi,M,124301,abc,Dadanpur,Radish,Anil,,27-Oct-15,68,4,272
+,M,124302,abc,,,Anil,,,,,0
+Wakil Sahni,M,124303,abc,Dadanpur,Cauliflower,Anil,,28-Oct-15,82,11,902
+Ramdulari Devi,M,124304,abc,Dadanpur,Chilli,Anil,,28-Oct-15,5,14,70
+Indu Devi,M,124305,abc,Dadanpur,Saag,Anil,,28-Oct-15,9,3,27
+Akli Devi,M,124306,abc,Dadanpur,Saag,Anil,,28-Oct-15,12,3,36
+Bibha Devi,M,124307,abc,Dadanpur,Radish,Anil,,28-Oct-15,45,4,180
+Kanti Devi,M,124308,abc,Dadanpur,Brinjal,Anil,,28-Oct-15,25,9,225
+Praveen Kimar,M,124309,abc,Banbira,Brinjal,Anil,,28-Oct-15,65,9,585
+,M,124310,abc,,,Anil,,,,,0
+Ramdulari Devi,M,124311,abc,Dadanpur,Cabbage,Anil,,29-Oct-15,10.5,7,73.5
+Ramdulari Devi,M,124312,abc,Dadanpur,Brinjal,Anil,,29-Oct-15,6.5,7,45.5
+Bibha Devi,M,124313,abc,Dadanpur,Radish,Anil,,29-Oct-15,39,4,156
+Bibha Devi,M,124314,abc,Dadanpur,Saag,Anil,,29-Oct-15,15,3,45
+Ramchandra Singh,M,124315,abc,Dadanpur,Bhindi,Anil,,29-Oct-15,3,5,15
+Manju Devi,M,124316,abc,Dadanpur,Bhindi,Anil,,29-Oct-15,14,5,70
+Praveen Kumar,M,124317,abc,Banbira,Bhindi,Anil,,29-Oct-15,54,5,270
+,M,124318,abc,,,Anil,,,,,0
+Santlal Sah,M,124319,abc,Banbira,Pointed Gourd,Anil,,30-Oct-15,4.5,7,31.5
+Praveen Kumar,M,124320,abc,Banbira,Bhindi,Anil,,30-Oct-15,55,5,275
+Manju Devi,M,124321,abc,Dadanpur,Louki,Anil,,30-Oct-15,2,5,10
+Manju Devi,M,124322,abc,Dadanpur,Pumpkin,Anil,,30-Oct-15,2,20,40
+Bibha Devi,M,124323,abc,Dadanpur,Cauliflower,Anil,,30-Oct-15,10,10,100
+Wakil Sahni,M,124324,abc,Dadanpur,Cauliflower,Anil,,30-Oct-15,145,10,1450
+Ramchandra Singh,M,124325,abc,Dadanpur,Bhindi,Anil,,30-Oct-15,4,5,20
+,M,124326,abc,,,Anil,,,,,0
+Lalmuni Devi,M,124327,abc,Dadanpur,Onion,Anil,,31-Oct-15,25,12,300
+Lalmuni Devi,M,124328,abc,,Onion,Anil,,,27,22,594
+Kanti Devi,M,124329,abc,Dadanpur,Brinjal,Anil,,31-Oct-15,12,4,48
+Praveen Kumar,M,124330,abc,Banbira,Brinjal,Anil,,31-Oct-15,55,4,220
+Praveen Kumar,M,124331,abc,Banbira,Bhindi,Anil,,31-Oct-15,40,4,160
+Lakhhu Sahni,M,124332,abc,Dadanpur,Brinjal,Anil,,31-Oct-15,5,4,20
+,M,124333,abc,,,Anil,,,,,0
+Wakil Sahni,M,124334,abc,Dadanpur,Cauliflower,Anil,,1-Nov-15,46,14,644
+Praveen Kumar,M,124335,abc,Banbira,Bhindi,Anil,,1-Nov-15,53,5,265
+Janki Devi,M,124336,abc,Dadanpur,Louki,Anil,,1-Nov-15,6,4,24
+Prabhu Sahni,M,124337,abc,Dadanpur,Cauliflower,Anil,,1-Nov-15,48,14,672
+Ramdulari Devi,M,124338,abc,Dadanpur,Chilli,Anil,,1-Nov-15,15,12,180
+Asha Devi,M,124339,abc,Dadanpur,Kundri,Anil,,1-Nov-15,92,3,276
+,M,124340,abc,,,Anil,,,,,0
+Kanti Devi,M,124341,abc,Dadanpur,Brinjal,Anil,,2-Nov-15,15,4,60
+Bibha Devi,M,124342,abc,Dadanpur,Radish,Anil,,2-Nov-15,13,3,39
+Manju Devi,M,124343,abc,Dadanpur,Onion,Anil,,2-Nov-15,20,10,200
+Manju Devi,M,124344,abc,Dadanpur,Onion,Anil,,2-Nov-15,3,20,60
+Indu Devi,M,124345,abc,Dadanpur,Saag,Anil,,2-Nov-15,10,3,30
+Praveen Kumar,M,124346,abc,Banbira,Bhindi,Anil,,2-Nov-15,42,5,210
+Wakil Sahni,M,124347,abc,Dadanpur,Cauliflower,Anil,,2-Nov-15,85,13,1105
+,M,124348,abc,,,Anil,,,,,0
+Ramdulari Devi,M,124349,abc,Dadanpur,Chilli,Anil,,3-Nov-15,5,10,50
+Ramchandra Singh,M,124350,abc,Dadanpur,Bhindi,Anil,,3-Nov-15,2.5,5,12.5
+Bibha Devi,M,124351,abc,Dadanpur,Cauliflower,Anil,,3-Nov-15,12,11,132
+Kanti Devi,M,124352,abc,Dadanpur,Brinjal,Anil,,3-Nov-15,30,4,120
+champa Devi,M,124353,abc,Dadanpur,Bhindi,Anil,,3-Nov-15,10,5,50
+Manju Devi,M,124354,abc,Dadanpur,Bhindi,Anil,,3-Nov-15,2.5,5,12.5
+Manju Devi,M,124355,abc,Dadanpur,Onion,Anil,,3-Nov-15,18.5,10,185
+Rina Devi,M,124356,abc,Dadanpur,Cauliflower,Anil,,3-Nov-15,51,11,561
+Praveen Kumar,M,124357,abc,Banbira,Bhindi,Anil,,3-Nov-15,42.5,5,212.5
+Rina Devi,M,124358,abc,Dadanpur,Brinjal,Anil,,4-Nov-15,3,3,9
+Praveen Kumar,M,124359,abc,Banbira,Bhindi,Anil,,4-Nov-15,40,6,240
+Vibha devi,M,124360,abc,Dadanpur,Cauliflower,Anil,,4-Nov-15,28,7.5,210
+Vibha devi,M,124361,abc,Dadanpur,Raddish,Anil,,4-Nov-15,14.5,4,58
+Asha Devi,M,124362,abc,Dadanpur,Brinjal,Anil,,4-Nov-15,54,3,162
+Vakil Saahani,M,124363,abc,Dadanpur,Cauliflower,Anil,,4-Nov-15,56,8,448
+Krantidevi,M,124364,abc,Dadanpur,Brinjal,Anil,,5-Nov-15,20,3,60
+Rajani devi,M,124365,abc,Dadanpur,Brinjal,Anil,,5-Nov-15,18,3,54
+champa Devi,M,124366,abc,Dadanpur,Cauliflower,Anil,,5-Nov-15,27,8,216
+Vakil Saahani,M,124367,abc,Dadanpur,Cauliflower,Anil,,5-Nov-15,40,8,320
+Manju Devi,M,124368,abc,Dadanpur,Onion _Sagga,Anil,,5-Nov-15,36,11,396
+Indu devi,M,124369,abc,Dadanpur,Sagga,Anil,,5-Nov-15,15,3,45
+Lasavu Sahani,M,124370,abc,Dadanpur,Brinjal,Anil,,6-Nov-15,10,3,30
+Vibha devi,M,124371,abc,Dadanpur,Raddish,Anil,,6-Nov-15,14.5,6,87
+Krantidevi,M,124372,abc,Dadanpur,Cauliflower,Anil,,6-Nov-15,46,8,368
+Rina Devi,M,124373,abc,Mohammadpur,Brinjal,Anil,,6-Nov-15,10,3,30
+Rina Devi,M,124374,abc,Mohammadpur,Cauliflower,Anil,,6-Nov-15,30,8,240
+Anil Sharma,M,124375,abc,Banbira,Yam,Anil,,6-Nov-15,150,12,1800
+Vibha devi,M,124376,abc,Dadanpur,Cauliflower,Anil,,7-Nov-15,16,8,128
+Krantidevi,M,124377,abc,Dadanpur,Brinjal,Anil,,7-Nov-15,17,4,68
+Manju Devi,M,124378,abc,Dadanpur,Cauliflower,Anil,,7-Nov-15,8,8,64
+Manju Devi,M,124379,abc,Dadanpur,Onion-Sagga,Anil,,7-Nov-15,24,9,216
+Manju Devi,M,124380,abc,Dadanpur,Spongeguard,Anil,,7-Nov-15,4,10,40
+susheela Devi,M,124381,abc,Dadanpur,Cauliflower,Anil,,7-Nov-15,22,8,176
+Anil sharma,M,124382,abc,Banbira,Yam,Anil,,7-Nov-15,86,13,1118
+Vibha devi,M,124383,abc,Dadanpur,Cauliflower,Anil,,8-Nov-15,10.5,7.5,78.75
+Vakil Saahani,M,124384,abc,Dadanpur,Cauliflower,Anil,,8-Nov-15,45.5,7.5,341.25
+Praveen Kumar,M,124385,abc,Banbira,Bhindi,Anil,,8-Nov-15,85,4,340
+Manju Devi,M,124386,abc,Dadanpur,Onion _Sagga,Anil,,8-Nov-15,27,12,324
+susheela Devi,M,124387,abc,Dadanpur,Brinjal,Anil,,8-Nov-15,42,3,126
+Krantidevi,M,124388,abc,Dadanpur,Brinjal,Anil,,8-Nov-15,26,3,78
+Manju Devi,M,124389,abc,Dadanpur,Sagga,Anil,,9-Nov-15,27,5,135
+Rina Devi,M,124390,abc,Dadanpur,Cauliflower,Anil,,9-Nov-15,35,8,280
+Vakil Saahani,M,124391,abc,Dadanpur,Cauliflower,Anil,,9-Nov-15,46,8,368
+Savita Devi,M,124392,abc,Dadanpur,Cauliflower,Anil,,9-Nov-15,32,8,256
+champa Devi,M,124393,abc,Dadanpur,Brinjal,Anil,,9-Nov-15,18,3,54
+Sanju Devi,M,124394,abc,Dadanpur,Chilli,Anil,,9-Nov-15,5,8,40
+Pramod Singh,M,124395,abc,Dadanpur,Cauliflower,Anil,,10-Nov-15,69,9,621
+susheela Devi,M,124396,abc,Dadanpur,Cauliflower,Anil,,10-Nov-15,12,9,108
+Krantidevi,M,124397,abc,Dadanpur,Brinjal,Anil,,10-Nov-15,18,3,54
+Praveen Kumar,M,124398,abc,Dadanpur,Bhindi,Anil,,10-Nov-15,35,3,105
+Ram Dulari devi,M,124399,abc,Dadanpur,Brinjal,Anil,,10-Nov-15,26,3,78
+Vibha devi,M,124400,abc,Dadanpur,Raddish,Anil,,10-Nov-15,17,2,34
+Asha Devi,M,124401,abc,Dadanpur,Brinjal,Anil,,11-Nov-15,105,4,420
+Vibha devi,M,124402,abc,Dadanpur,Cauliflower,Anil,,11-Nov-15,49,10,490
+champa Devi,M,124403,abc,Dadanpur,Cauliflower,Anil,,11-Nov-15,31,10,310
+Ram Dulari devi,M,124404,abc,Dadanpur,Cauliflower,Anil,,11-Nov-15,37,10,370
+Rajani devi,M,124405,abc,Dadanpur,Cauliflower,Anil,,11-Nov-15,26,10,260
+Krantidevi,M,124406,abc,Dadanpur,Brinjal,Anil,,12-Nov-15,22,4,88
+Asha Devi,M,124407,abc,Dadanpur,Kundri,Anil,,12-Nov-15,28,3,84
+Praveen Kumar,M,124408,abc,Banbira,Bhindi,Anil,,12-Nov-15,45,4,180
+Rajani devi,M,124409,abc,Dadanpur,Raddish,Anil,,12-Nov-15,22,5,110
+Rajani devi,M,124410,abc,Dadanpur,Saag,Anil,,12-Nov-15,35,4,140
+Rina Devi,M,124411,abc,Dadanpur,Chilli,Anil,,12-Nov-15,15,12,180
+Sunita Devi,M,124412,abc,Dadanpur,Cauliflower,Anil,,12-Nov-15,48,10,480
+Shanthi Devi,M,124413,abc,Dadanpur,Onion _Sagga,Anil,,12-Nov-15,55,12,660
+Asha Devi,M,124414,abc,Dadanpur,Kundri,Anil,,13-Nov-15,98,2,196
+Janki Devi,M,124415,abc,Dadanpur,Mooli,Anil,,13-Nov-15,25,3,75
+Vibha Devi,M,124416,abc,Dadanpur,Cauliflower,Anil,,13-Nov-15,50,7,350
+Champa Devi,M,124417,abc,Dadanpur,Cauliflower,Anil,,13-Nov-15,47,7,329
+Rajbati Devi,M,124418,abc,Dadanpur,Kaddu,Anil,,13-Nov-15,3,6.5,19.5
+Praveen Kumar,M,124419,abc,Dadanpur,Bhindi,Anil,,13-Nov-15,48,5,240
+Parervan Sahni,M,124420,abc,Larua,Sagga Pyaaz,Anil,,13-Nov-15,95,9,855
+Vibha Devi,M,124421,abc,Dadanpur,Cauliflower,Anil,,14-Nov-15,70,7,490
+Champa Devi,M,124422,abc,Dadanpur,Cauliflower,Anil,,14-Nov-15,35,7,245
+Rajbati Devi,M,124423,abc,Dadanpur,Kaddu,Anil,,14-Nov-15,8,10,80
+Janki Devi,M,124424,abc,Dadanpur,Sagga Pyaaz,Anil,,14-Nov-15,72,10,720
+Praveen Kumar,M,124425,abc,Dadanpur,Brinjal,Anil,,14-Nov-15,55,4,220
+Pramod Kumar,M,124426,abc,Dadanpur,Cauliflower,Anil,,14-Nov-15,75,7,525
+Parekhan Sahni,M,124427,abc,Larua,Sagga Pyaaz,Anil,,14-Nov-15,90,8,720
+Anila Devi,M,124428,abc,Larua,Sagga Pyaaz,Anil,,14-Nov-15,35,8,280
+Vibha Devi,M,124429,abc,Dadanpur,Cauliflower,Anil,,15-Nov-15,48,8,384
+Ram Dulari Devi,M,124430,abc,Dadanpur,Cabbage,Anil,,15-Nov-15,15,8,120
+Pramod Kumar,M,124431,abc,Dadanpur,Cauliflower,Anil,,15-Nov-15,67,8,536
+Champa Devi,M,124432,abc,Dadanpur,Cauliflower,Anil,,15-Nov-15,46,8,368
+Champa Devi,M,124433,abc,Dadanpur,Sagga Pyaaz,Anil,,15-Nov-15,54,9,486
+Renuka Devi,M,124434,abc,Larua,Sagga Pyaaz,Anil,,15-Nov-15,35,7,245
+Vimla Devi,M,124435,abc,Larua,Sagga Pyaaz,Anil,,15-Nov-15,27,7,189
+Parekhan Sahni,M,124436,abc,Larua,Sagga Pyaaz,Anil,,15-Nov-15,75,7,525
+Vibha Devi,M,124437,abc,Dadanpur,Cauliflower,Anil,,16-Nov-15,48,7,336
+Kanti Devi,M,124438,abc,Dadanpur,Cauliflower,Anil,,16-Nov-15,17,7,119
+Rajni Devi,M,124439,abc,Dadanpur,Saag,Anil,,16-Nov-15,22,5,110
+Ram Dulari Devi,M,124440,abc,Dadanpur,Cabbage,Anil,,16-Nov-15,13,7,91
+Champa Devi,M,124441,abc,Dadanpur,Cauliflower,Anil,,16-Nov-15,29,7,203
+Shanti Devi,M,124442,abc,Dadanpur,Sagga Pyaaz,Anil,,16-Nov-15,25,9,225
+Champa Devi,M,124443,abc,Larua,Sagga Pyaaz,Anil,,16-Nov-15,30,7,210
+Pramila Devi,M,124444,abc,Larua,Brinjal,Anil,,16-Nov-15,20,4,80
+Renuka Devi,M,124445,abc,Larua,Sagga Pyaaz,Anil,,16-Nov-15,70,7,490
+Vibha Devi,M,124446,abc,Dadanpur,Cauliflower,Anil,,17-Nov-15,43,8,344
+Manju Devi,M,124447,abc,Dadanpur,Cauliflower,Anil,,17-Nov-15,13,8,104
+Sushila Devi,M,124448,abc,Dadanpur,Cauliflower,Anil,,17-Nov-15,16,8,128
+Champa Devi,M,124449,abc,Dadanpur,Cauliflower,Anil,,17-Nov-15,28,8,224
+Champa Devi,M,124450,abc,Dadanpur,Sagga Pyaaz,Anil,,17-Nov-15,32,8,256
+Praveen Kumar,M,124451,abc,Dadanpur,Brinjal,Anil,,17-Nov-15,45,4,180
+Praveen Kumar,M,124452,abc,Dadanpur,Cabbage,Anil,,17-Nov-15,15,8,120
+Parekhan Sahni,M,124453,abc,Larua,Sagga Pyaaz,Anil,,17-Nov-15,130,4,520
+Krishna Devi,M,124454,abc,Larua,Brinjal,Anil,,17-Nov-15,10,4,40
+Pramila Devi,M,124455,abc,Larua,Brinjal,Anil,,17-Nov-15,8,4,32
+Sushila Devi,M,124456,abc,Dadanpur,Cauliflower,Anil,,19-Nov-15,127,8,1016
+Manju Devi,M,124457,abc,Dadanpur,Cauliflower,Anil,,19-Nov-15,20,8,160
+Praveen Kumar,M,124458,abc,Banbira,Brinjal,Anil,,19-Nov-15,32,4,128
+Parekhan Sahni,M,124459,abc,Larua,Onion,Anil,,19-Nov-15,95,10,950
+Kanti Devi,M,124460,abc,Dadanpur,Cauliflower,Anil,,20-Nov-15,30,7,210
+Indu Devi,M,124461,abc,Dadanpur,Kundri,Anil,,20-Nov-15,8.5,3,25.5
+Vibha Devi,M,124462,abc,Dadanpur,Cauliflower,Anil,,20-Nov-15,35,7,245
+Champa Devi,M,124463,abc,Dadanpur,Cauliflower,Anil,,20-Nov-15,49,7,343
+Praveen Kumar,M,124464,abc,Banbira,Brinjal,Anil,,20-Nov-15,37,4,148
+Sita Devi,M,124465,abc,Larua,Onion,Anil,,20-Nov-15,30,8,240
+Anila Devi,M,124466,abc,Larua,Cauliflower,Anil,,20-Nov-15,55,7,385
+Priyanka Devi,M,124467,abc,Larua,Kundri,Anil,,20-Nov-15,20,3,60
+Ramchandra Singh,M,124468,abc,Dadanpur,Kaddu,Anil,,21-Nov-15,2,5,10
+Ramdulari Devi,M,124469,abc,Dadanpur,Kaddu,Anil,,21-Nov-15,1,5,5
+Vibha Devi,M,124470,abc,Dadanpur,Cauliflower,Anil,,21-Nov-15,141,6,846
+Rampari Devi,M,124471,abc,Dadanpur,Chilli,Anil,,21-Nov-15,12,8,96
+Champa Devi,M,124472,abc,Dadanpur,Cauliflower,Anil,,21-Nov-15,162,6,972
+Rani Devi,M,124473,abc,Larua,Chilli,Anil,,21-Nov-15,40,8,320
+Pramila Devi,M,124474,abc,Larua,Onion,Anil,,21-Nov-15,95,6,570
+Munnar Devi,M,124475,abc,Larua,Kaddu,Anil,,21-Nov-15,5,5,25
+Vibha Devi,M,124476,abc,Dadanpur,Cauliflower,Anil,,22-Nov-15,168,7,1176
+Kanti Devi,M,124477,abc,Dadanpur,Cauliflower,Anil,,22-Nov-15,26,7,182
+Champa Devi,M,124478,abc,Dadanpur,Cauliflower,Anil,,22-Nov-15,75,7,525
+Sushila Devi,M,124479,abc,Dadanpur,Cauliflower,Anil,,22-Nov-15,15,7,105
+Anila Devi,M,124480,abc,Larua,Cauliflower,Anil,,22-Nov-15,75,7,525
+Tetari Devi,M,124481,abc,Larua,Brinjal,Anil,,22-Nov-15,25,5,125
+Parwati Devi,M,124482,abc,Larua,Onion,Anil,,22-Nov-15,60,7,420
+Vibha Devi,M,124483,abc,Dadanpur,Cauliflower,Anil,,23-Nov-15,75.5,8,604
+Champa Devi,M,124484,abc,Dadanpur,Cauliflower,Anil,,23-Nov-15,60,8,480
+Asha Devi,M,124485,abc,Dadanpur,Onion_Sagga,Anil,,23-Nov-15,35,6,210
+Ramdulari Devi,M,124486,abc,Dadanpur,Kaddu,Anil,,23-Nov-15,4,6,24
+Parekhan Sahni,M,124487,abc,Larua,Onion,Anil,,23-Nov-15,150,20,3000
+Punam Devi,M,124488,abc,Larua,Brinjal,Anil,,23-Nov-15,15,4,60
+Pintu Jha,M,124489,abc,Larua,Cauliflower,Anil,,23-Nov-15,14,5,70
+Sushila Devi,M,124490,abc,Dadanpur,Cauliflower,Anil,,24-Nov-15,25,8,200
+Kanti Devi,M,124491,abc,Dadanpur,Cauliflower,Anil,,24-Nov-15,34,8,272
+Vibha Devi,M,124492,abc,Dadanpur,Cauliflower,Anil,,24-Nov-15,51,8,408
+Champa Devi,M,124493,abc,Dadanpur,Cauliflower,Anil,,24-Nov-15,55,8,440
+Manju Devi,M,124494,abc,Dadanpur,Kaddu,Anil,,24-Nov-15,6,5,30
+Praveen Kumar,M,124495,abc,Banbira,Brinjal,Anil,,24-Nov-15,12,4,48
+Praveen Kumar,M,124496,abc,Banbira,Onion_Sagga,Anil,,24-Nov-15,84,5,420
+Parwati Devi,M,124497,abc,Larua,Brinjal,Anil,,24-Nov-15,10,4,40
+Geeta Devi,M,124498,abc,Larua,Onion_Sagga,Anil,,24-Nov-15,110,8,880
+Sunita Devi,M,124499,abc,Larua,Kaddu,Anil,,24-Nov-15,4,5,20
+Smita Devi,M,124500,abc,Dadanpur,Cauliflower,Anil,,25-Nov-15,64,10,640
+Shanti Devi,M,124501,abc,Dadanpur,Onion_Sagga,Anil,,25-Nov-15,110,6,660
+Vibha Devi,M,124502,abc,Dadanpur,Cauliflower,Anil,,25-Nov-15,55,10,550
+Champa Devi,M,124503,abc,Dadanpur,Cauliflower,Anil,,25-Nov-15,48,10,480
+Champa Devi,M,124504,abc,Dadanpur,Onion_Sagga,Anil,,25-Nov-15,36,6,216
+Sabita Devi,M,124505,abc,Larua,Cauliflower,Anil,,25-Nov-15,55,10,550
+Punam Devi,M,124506,abc,Larua,Cauliflower,Anil,,25-Nov-15,30,10,300
+Tetari Devi,M,124507,abc,Larua,Brinjal,Anil,,25-Nov-15,30,6,180
+Vibha Devi,M,124508,abc,Dadanpur,Cauliflower,Anil,,26-Nov-15,105,12.5,1312.5
+Kanti Devi,M,124509,abc,Dadanpur,Cauliflower,Anil,,26-Nov-15,26,12.5,325
+Asha Devi,M,124510,abc,Dadanpur,Sim,Anil,,26-Nov-15,18,19,342
+Asha Devi,M,124511,abc,Dadanpur,Kaddu,Anil,,26-Nov-15,12,4,48
+Smita Devi,M,124512,abc,Dadanpur,Cauliflower,Anil,,26-Nov-15,90,12.5,1125
+Shyam Kumar Rai,M,124513,abc,Banbira,Brinjal,Anil,,26-Nov-15,10,2.5,25
+Vibha Devi,M,124514,abc,Dadanpur,Cauliflower,Anil,,28-Nov-15,79,12,948
+Aasha Devi,M,124515,abc,Dadanpur,Cauliflower,Anil,,28-Nov-15,46,11.5,529
+Champa Devi,M,124516,abc,Dadanpur,Cauliflower,Anil,,28-Nov-15,40,12,480
+Lakshmi Sahni,M,124517,abc,Dadanpur,Cauliflower,Anil,,28-Nov-15,20,11.5,230
+Manju Devi,M,124518,abc,Dadanpur,Kaddu,Anil,,28-Nov-15,2,5,10
+Sunita Devi,M,124519,abc,Dadanpur,Cauliflower,Anil,,28-Nov-15,35,14,490
+Naveen Rai,M,124520,abc,Larua,Brinjal,Anil,,28-Nov-15,20,4,80
+Tetari Devi,M,124521,abc,Larua,Onion_Sagga,Anil,,28-Nov-15,60,6,360
+Priyanka Devi,M,124522,abc,Larua,Sim,Anil,,28-Nov-15,23,21,483
+Sushila Devi,M,124523,abc,Dadanpur,Cauliflower,Anil,,29-Nov-15,3,12.5,37.5
+Kanti Devi,M,124524,abc,Dadanpur,Cauliflower,Anil,,29-Nov-15,24,12.5,300
+Lakshmi Sahni,M,124525,abc,Dadanpur,Cauliflower,Anil,,29-Nov-15,10,12.5,125
+Prasadi Rai,M,124526,abc,Dadanpur,Onion,Anil,,29-Nov-15,28,13,364
+Vibha Devi,M,124527,abc,Dadanpur,Cauliflower,Anil,,29-Nov-15,86,12.5,1075
+Champa Devi,M,124528,abc,Dadanpur,Onion_Sagga,Anil,,29-Nov-15,17,3.5,59.5
+Shanti Devi,M,124529,abc,Dadanpur,Onion_Sagga,Anil,,29-Nov-15,50,6,300
+Nandan Sahni,M,124530,abc,Dadanpur,Onion_Sagga,Anil,,29-Nov-15,50,2.5,125
+Anila Devi,M,124531,abc,Larua,Cauliflower,Anil,,29-Nov-15,52,12,624
+Baleshwar Das,M,124532,abc,Larua,Onion_Sagga,Anil,,29-Nov-15,115,6,690
+Naveen Rai,M,124533,abc,Larua,Brinjal,Anil,,29-Nov-15,43,6,258
+Vibha Devi,M,124534,abc,Dadanpur,Cauliflower,Anil,,30-Nov-15,97,12,1164
+Vibha Devi,M,124535,abc,Dadanpur,Onion,Anil,,30-Nov-15,73,14,1022
+Chandeshwar Singh,M,124536,abc,Dadanpur,Cauliflower,Anil,,30-Nov-15,55.5,11,610.5
+Champa Devi,M,124537,abc,Dadanpur,Cauliflower,Anil,,30-Nov-15,46,11,506
+Champa Devi,M,124538,abc,Dadanpur,Onion,Anil,,30-Nov-15,38,14,532
+Roona Devi,M,124539,abc,Larua,Onion,Anil,,30-Nov-15,28,14,392
+Chanchal Devi,M,124540,abc,Larua,Cauliflower,Anil,,30-Nov-15,16,12,192
+Parekhan Sahni,M,124541,abc,Larua,Onion,Anil,,30-Nov-15,72,14,1008
+Ram Dulari Devi,M,124542,abc,Dadanpur,Cauliflower,Anil,Kalyani,1-Dec-15,46,13,598
+Ram Dulari Devi,M,124543,abc,Dadanpur,Cabbage,Anil,Kalyani,1-Dec-15,33,6,198
+Rimta Devi,M,124544,abc,Dadanpur,Sim,Anil,Kalyani,1-Dec-15,3,16,48
+Shanti Devi,M,124545,abc,Dadanpur,Onion_Sagga,Anil,Kalyani,1-Dec-15,73,4,292
+Manju Devi,M,124546,abc,Dadanpur,Cauliflower,Anil,Kalyani,1-Dec-15,4,12,48
+Priyanka Devi,M,124547,abc,Larua,Sim,Anil,Kalyani,1-Dec-15,30,16,480
+Vasundhara Devi,M,124548,abc,Larua,Cabbage,Anil,Kalyani,1-Dec-15,42,6,252
+Anila Devi,M,124549,abc,Larua,Cauliflower,Anil,Kalyani,1-Dec-15,52,13,676
+Vibha Devi,M,124550,abc,Dadanpur,Cauliflower,Anil,Kalyani,2-Dec-15,97,14,1358
+Vibha Devi,M,124551,abc,Dadanpur,Onion,Anil,Kalyani,2-Dec-15,45,13,585
+Nandan Sahni,M,124552,abc,Dadanpur,Cauliflower,Anil,Kalyani,2-Dec-15,21,14,294
+Lakshmi Sahni,M,124553,abc,Dadanpur,Cauliflower,Anil,Kalyani,2-Dec-15,74,14,1036
+Tetari Devi,M,124554,abc,Larua,Cauliflower,Anil,Kalyani,2-Dec-15,89,14,1246
+Anila Devi,M,124555,abc,Larua,Onion,Anil,Kalyani,2-Dec-15,65,13,845
+Vibha Devi,M,124556,abc,Dadanpur,Cauliflower,Anil,Kalyani,3-Dec-15,68,14,952
+Vibha Devi,M,124557,abc,Dadanpur,Onion,Anil,Kalyani,3-Dec-15,47.5,13,617.5
+Manju Devi,M,124558,abc,Dadanpur,Cauliflower,Anil,Kalyani,3-Dec-15,32,14,448
+Praveen Kumar,M,124559,abc,Banvira,Cabbage,Anil,Kalyani,3-Dec-15,74.5,7,521.5
+Praveen Kumar,M,124560,abc,Banvira,Brinjal,Anil,Kalyani,3-Dec-15,24,5,120
+Kamal Kishore Rai,M,124561,abc,Banvira,Onion,Anil,Kalyani,3-Dec-15,100,13,1300
+Kamal Kishore Rai,M,124562,abc,Banvira,Onion_Sagga,Anil,Kalyani,3-Dec-15,60,3,180
+Anila Devi,M,124563,abc,Larua,Cauliflower,Anil,Kalyani,3-Dec-15,76,14,1064
+Priyanka Devi,M,124564,abc,Larua,Sim,Anil,Kalyani,3-Dec-15,28,16,448
+Sanjay Singh,M,124565,abc,Rajkarampur,Sim,Devinder,Tajpur,27-Nov-15,49,30,1470
+Shatrughan Singh,M,124566,abc,Rajkarampur,Brinjal,Devinder,Tajpur,27-Nov-15,60,6,360
+Shatrughan Singh,M,124567,abc,Rajkarampur,Cauliflower,Devinder,Tajpur,27-Nov-15,105,13,1365
+Avdesh singh,M,124568,abc,Rajkarampur,Cauliflower,Devinder,Tajpur,27-Nov-15,53,13,689
+Rakesh Singh,M,124569,abc,Rajkarampur,Brinjal,Devinder,Tajpur,27-Nov-15,192,6,1152
+Rajesh Rai,M,124570,abc,Godiyari,Cauliflower,Devinder,Tajpur,27-Nov-15,140,11,1540
+Prem Lal singh,M,124571,abc,Rajkarampur,Chilli,Devinder,Tajpur,27-Nov-15,33,5,165
+Prem Lal singh,M,124572,abc,Rajkarampur,Cauliflower,Devinder,Tajpur,27-Nov-15,,,0
+Prem Lal singh,M,124573,abc,Rajkarampur,Onion,Devinder,Tajpur,27-Nov-15,54,8,432
+Surendar singh,M,124574,abc,Rajkarampur,Brinjal,Devinder,Tajpur,27-Nov-15,100,6,600
+Surendar singh,M,124575,abc,Rajkarampur,Cauliflower,Devinder,Tajpur,27-Nov-15,14,,0
+Ravinder singh,M,124576,abc,Rajkarampur,Bora,Devinder,Tajpur,27-Nov-15,29,15,435
+Ravinder singh,M,124577,abc,Rajkarampur,Cauliflower,Devinder,Tajpur,27-Nov-15,8,12,96
+Ravinder singh,M,124578,abc,Rajkarampur,Chilli,Devinder,Tajpur,27-Nov-15,40,5,200
+Devinder singh,M,124579,abc,Rajkarampur,Cauliflower,Devinder,Tajpur,27-Nov-15,63,12,756
+Rakesh Singh,M,124580,abc,Rajkarampur,Brinjal,Devinder,Tajpur,28-Nov-15,51,7,357
+Rakesh Singh,M,124581,abc,Rajkarampur,Brinjal,Devinder,Tajpur,28-Nov-15,,,0
+Rakesh Singh,M,124582,abc,Rajkarampur,Brinjal,Devinder,Tajpur,28-Nov-15,210,6,1260
+Rakesh Singh,M,124583,abc,Rajkarampur,Raddish,Devinder,Tajpur,28-Nov-15,40,5,200
+Manay Kumar,M,124584,abc,Rajkarampur,Brinjal,Devinder,Tajpur,28-Nov-15,145,6,870
+Soman Singh,M,124585,abc,Rajkarampur,Brinjal,Devinder,Tajpur,28-Nov-15,185,5,925
+Sanjeev Singh,M,124586,abc,Rajkarampur,Onion,Devinder,Tajpur,28-Nov-15,85,10,850
+Ravinder singh,M,124587,abc,Rajkarampur,Chilli,Devinder,Tajpur,28-Nov-15,15,5,75
+Ravinder singh,M,124588,abc,Rajkarampur,Kaddu,Devinder,Tajpur,28-Nov-15,10,10,100
+Sanjay Singh,M,124589,abc,Rajkarampur,Cauliflower,Devinder,Tajpur,28-Nov-15,85,12,1020
+Ajith Singh,M,124590,abc,Rajkarampur,Brinjal,Devinder,Tajpur,29-Nov-15,160,6,960
+Ajith Singh,M,124591,abc,Rajkarampur,Sim,Devinder,Tajpur,29-Nov-15,30,30,900
+Soman Singh,M,124592,abc,Rajkarampur,Brinjal,Devinder,Tajpur,29-Nov-15,190,5,950
+Surendar singh,M,124593,abc,Rajkarampur,Brinjal,Devinder,Tajpur,29-Nov-15,140,6,840
+Rajan Singh,M,124594,abc,Rajkarampur,Cauliflower,Devinder,Tajpur,29-Nov-15,75,11,825
+Rajan Singh,M,124595,abc,Rajkarampur,Chilli,Devinder,Tajpur,29-Nov-15,25,5,125
+Ravinder singh,M,124596,abc,Rajkarampur,Brinjal,Devinder,Tajpur,29-Nov-15,255,6,1530
+Ravinder singh,M,124597,abc,Rajkarampur,Bora,Devinder,Tajpur,29-Nov-15,35,15,525
+Ravinder singh,M,124598,abc,Rajkarampur,Chilli,Devinder,Tajpur,29-Nov-15,44,5,220
+Ravinder singh,M,124599,abc,Rajkarampur,Kaddu,Devinder,Tajpur,29-Nov-15,90,10,900
+Devinder singh,M,124600,abc,Rajkarampur,Brinjal,Devinder,Tajpur,29-Nov-15,88,6,528
+Ramkumar singh,M,124601,abc,Rajkarampur,Cabbage,Devinder,Tajpur,29-Nov-15,145,6,870
+Prem Lal singh,M,124602,abc,Rajkarampur,Chilli,Devinder,Tajpur,29-Nov-15,28,5,140
+Prem Lal singh,M,124603,abc,Rajkarampur,Onion,Devinder,Tajpur,30-Nov-15,65,8,520
+Ravinder singh,M,124604,abc,Rajkarampur,Brinjal,Devinder,Tajpur,30-Nov-15,275,5,1375
+Ravinder singh,M,124605,abc,Rajkarampur,Chilli,Devinder,Tajpur,30-Nov-15,25,5,125
+Shatrughan Singh,M,124606,abc,Rajkarampur,Brinjal,Devinder,Tajpur,30-Nov-15,110,5,550
+Shatrughan Singh,M,124607,abc,Rajkarampur,Cauliflower,Devinder,Tajpur,30-Nov-15,85,12,1020
+Soman Singh,M,124608,abc,Rajkarampur,Brinjal,Devinder,Tajpur,30-Nov-15,90,5,450
+Surendar singh,M,124609,abc,Rajkarampur,Chilli,Devinder,Tajpur,30-Nov-15,40,5,200
+Surendar singh,M,124610,abc,Rajkarampur,Brinjal,Devinder,Tajpur,30-Nov-15,75,5,375
+Hardev Singh,M,124611,abc,Rajkarampur,Chilli,Devinder,Tajpur,2-Dec-15,75,6,450
+Sanjay Singh,M,124612,abc,Rajkarampur,Sim,Devinder,Tajpur,2-Dec-15,63,27,1701
+Ravinder singh,M,124613,abc,Rajkarampur,Kaddu,Devinder,Tajpur,2-Dec-15,62,10,620
+Ranjit Das,M,124614,abc,Rajkarampur,Brinjal,Devinder,Tajpur,2-Dec-15,67,7,469
+Roshan Kumar,M,124615,abc,Rajkarampur,Cabbage,Devinder,Tajpur,2-Dec-15,460,4,1840
+Devinder Singh,M,124616,abc,Rajkarampur,Brinjal,Devinder,Tajpur,3-Dec-15,220,5.5,1210
+Rabindra Singh,M,124617,abc,Rajkarampur,Brinjal,Devinder,Tajpur,3-Dec-15,240,5.5,1320
+Hardev Singh,M,124618,abc,Rajkarampur,Chilli,Devinder,Tajpur,3-Dec-15,75,6.5,487.5
+Vishwa Nath Singh,M,124619,abc,Rajkarampur,Brinjal,Devinder,Tajpur,3-Dec-15,90,5.5,495
+Divesh Das,M,124620,abc,Rajkarampur,onion,Devinder,Tajpur,3-Dec-15,70,6,420
+Vidyanand Singh,M,124621,abc,Rajkarampur,Brinjal,Devinder,Tajpur,3-Dec-15,195,4,780
+Ramkumar singh,M,124622,abc,Rajkarampur,Onion_Sagga,Devinder,Tajpur,3-Dec-15,190,4,760
+Sanjay Singh,M,124623,abc,Rajkarampur,Sim,Devinder,Tajpur,3-Dec-15,65,28,1820
+Sanjeev Rai,M,124624,abc,Godiyari,Cabbage,No VRP,Samastipur,4-Dec-15,300,4,1200
+Dileep,M,124625,abc,Godiyari,Cabbage,No VRP,Samastipur,4-Dec-15,255,4,1020
+Aatma Ram,M,124626,abc,Godiyari,Cabbage,No VRP,Samastipur,4-Dec-15,466,4,1864
+Harkishan Singh,M,124627,abc,Godiyari,Brinjal,No VRP,Samastipur,4-Dec-15,172,5,860
+Krishnanand Singh,M,124628,abc,Godiyari,Brinjal,No VRP,Samastipur,4-Dec-15,207,5,1035
+Raju,M,124629,abc,Godiyari,Cabbage,No VRP,Samastipur,4-Dec-15,224,4,896
+Bittu,M,124630,abc,Godiyari,Cabbage,No VRP,Samastipur,4-Dec-15,312,4,1248
+Rajan,M,124631,abc,Godiyari,Cabbage,No VRP,Samastipur,4-Dec-15,60,4,240
+Subodh ,M,124632,abc,Godiyari,Cabbage,No VRP,Samastipur,4-Dec-15,297,4,1188
+Ram Narayan,M,124633,abc,Godiyari,Cabbage,No VRP,Samastipur,4-Dec-15,232,4,928
+Vibha Devi,M,124634,abc,Dadanpur,Cauliflower,Anil,Kalyani,5-Dec-15,102,13,1326
+Lakshmi Sahni,M,124635,abc,Dadanpur,Cauliflower,Anil,Kalyani,5-Dec-15,55,14,770
+Manju Devi,M,124636,abc,Dadanpur,Cauliflower,Anil,Kalyani,5-Dec-15,11.5,15,172.5
+Sushila Devi,M,124637,abc,Dadanpur,Cauliflower,Anil,Kalyani,5-Dec-15,33,15,495
+Praveen Kumar,M,124638,abc,Banbira,Cabbage,Anil,Kalyani,5-Dec-15,66,5,330
+Ramdulari Devi,M,124639,abc,Dadanpur,Cabbage,Anil,Kalyani,5-Dec-15,14,5,70
+Kamal Kishore Rai,M,124640,abc,Banbira,Onion,Anil,Kalyani,5-Dec-15,111,12,1332
+Vibha Devi,M,124641,abc,Dadanpur,Cauliflower,Anil,Kalyani,6-Dec-15,40,12,480
+Vibha Devi,M,124642,abc,Dadanpur,Onion,Anil,Kalyani,6-Dec-15,119,10,1190
+Praveen Kumar,M,124643,abc,Banbira,Cabbage,Anil,Kalyani,6-Dec-15,69,5,345
+Kamal Kishore Rai,M,124644,abc,Banbira,Onion,Anil,Kalyani,6-Dec-15,208,12,2496
+Vibha Devi,M,124645,abc,Dadanpur,Cauliflower,Anil,Kalyani,7-Dec-15,106,11,1166
+Ramdulari Devi,M,124646,abc,Dadanpur,Cauliflower,Anil,Kalyani,7-Dec-15,26,13,338
+Ajay singh,M,124647,abc,Dadanpur,Cauliflower,Anil,Kalyani,7-Dec-15,13,13,169
+Vakil Sahani,M,124648,abc,Dadanpur,Onion_Sagga,Anil,Kalyani,7-Dec-15,54,5,270
+Vakil Sahani,M,124649,abc,Dadanpur,Onion,Anil,Kalyani,7-Dec-15,40,12,480
+Praveen Kumar,M,124650,abc,Banbira,Cabbage,Anil,Kalyani,7-Dec-15,55,5,275
+Praveen Kumar,M,124651,abc,Banbira,Brinjal,Anil,Kalyani,7-Dec-15,20,6,120
+Inday singh,M,124652,abc,Dadanpur,Brinjal,Anil,Kalyani,7-Dec-15,27,4,108
+Digvijay,M,124653,abc,Banbira,Lemon,Anil,Kalyani,7-Dec-15,150,1,150
+Digvijay,M,124654,abc,Banbira,Kaddu,Anil,Kalyani,7-Dec-15,7,5,35
+Manju Devi,M,124655,abc,Dadanpur,Cauliflower,Anil,Kalyani,8-Dec-15,29,11,319
+Sushila Devi,M,124656,abc,Dadanpur,Cauliflower,Anil,Kalyani,8-Dec-15,6,11,66
+Vibha Devi,M,124657,abc,Dadanpur,Cauliflower,Anil,Kalyani,8-Dec-15,57,11,627
+Praveen Kumar,M,124658,abc,Banbira,Cabbage,Anil,Kalyani,8-Dec-15,27,5,135
+Praveen Kumar,M,124659,abc,Banbira,Brinjal,Anil,Kalyani,8-Dec-15,14,5,70
+Praveen Kumar,M,124660,abc,Banbira,Cabbage,Anil,Kalyani,8-Dec-15,31,4,124
+Vakil Sahani,M,124661,abc,Dadanpur,Onion_Sagga,Anil,Kalyani,8-Dec-15,127,4,508
+Vakil Sahani,M,124662,abc,Dadanpur,Onion,Anil,Kalyani,8-Dec-15,42,12,504
+Devinder Singh,M,124663,abc,Rajkarampur,Brinjal,Devinder,Tajpur,5-Dec-15,135,5,675
+Surendar singh,M,124664,abc,Rajkarampur,Brinjal,Devinder,Tajpur,5-Dec-15,95,5,475
+Hardev Singh,M,124665,abc,Rajkarampur,Cauliflower,Devinder,Tajpur,5-Dec-15,65,5,325
+Rakesh Singh,M,124666,abc,Rajkarampur,Onion_Sagga,Devinder,Tajpur,5-Dec-15,120,6,720
+Amaresh singh,M,124667,abc,Rajkarampur,Brinjal,Devinder,Tajpur,5-Dec-15,130,5,650
+Apita Singh,M,124668,abc,Rajkarampur,Brinjal,Devinder,Tajpur,5-Dec-15,75,5,375
+Lakhan singh,M,124669,abc,Rajkarampur,Cauliflower,Devinder,Tajpur,5-Dec-15,170,12,2040
+Rajgir roy,M,124670,abc,Rajkarampur,Cauliflower,Devinder,Tajpur,5-Dec-15,20,12,240
+Lalbabu singh,M,124671,abc,Rajkarampur,Sim,Devinder,Tajpur,5-Dec-15,20,30,600
+Sanjiv singh,M,124672,abc,Rajkarampur,Chilli,Devinder,Tajpur,6-Dec-15,45,6,270
+Satrodan singh,M,124673,abc,Rajkarampur,Cauliflower,Devinder,Tajpur,6-Dec-15,85,6,510
+Soman Singh,M,124674,abc,Rajkarampur,Brinjal,Devinder,Tajpur,6-Dec-15,160,13,2080
+Shivu chandra Singh,M,124675,abc,Rajkarampur,Chilli,Devinder,Tajpur,6-Dec-15,30,5.5,165
+Vishwa Nath Singh,M,124676,abc,Rajkarampur,Cabbage,Devinder,Tajpur,6-Dec-15,210,7,1470
+Ravinder singh,M,124677,abc,Rajkarampur,Bora,Devinder,Tajpur,6-Dec-15,82,5,410
+Ravinder singh,M,124678,abc,Rajkarampur,Kaddu,Devinder,Tajpur,7-Dec-15,200,12,2400
+Lakhan singh,M,124679,abc,Rajkarampur,Cauliflower,Devinder,Tajpur,7-Dec-15,200,13,2600
+Hardev Singh,M,124680,abc,Rajkarampur,Chilli,Devinder,Tajpur,7-Dec-15,30,8,240
+Hardev Singh,M,124681,abc,Rajkarampur,Chilli,Devinder,Tajpur,7-Dec-15,20,8,160
+Ramkumar singh,M,124682,abc,Rajkarampur,Cabbage,Devinder,Tajpur,8-Dec-15,990,4,3960
+Devanand singh,M,124683,abc,Rajkarampur,Onion,Devinder,Tajpur,8-Dec-15,90,7,630
+Roshan Kumar,M,124684,abc,Rajkarampur,Cabbage,Devinder,Tajpur,8-Dec-15,170,4,680
+Devinder Singh,M,124685,abc,Rajkarampur,Brinjal,Devinder,Tajpur,8-Dec-15,130,5.5,715
+Rahul Kumar,M,124686,abc,Rajkarampur,Sim,Devinder,Tajpur,8-Dec-15,30,22,660
+Sanjeev Roy,M,124687,abc,Rajkarampur,Cabbage,Devinder,Samastipur,8-Dec-15,800,4.5,3600
+Subhodh,M,124688,abc,Godiyari,Cabbage,Devinder,Samastipur,8-Dec-15,700,4,2800
+Mithilesh Roy,M,124689,abc,Godiyari,Cabbage,Devinder,Samastipur,8-Dec-15,100,4,400
+Daresh Roy,M,124690,abc,Godiyari,Cabbage,Devinder,Samastipur,8-Dec-15,90,4,360
+Prem shankar roy,M,124691,abc,Godiyari,Cabbage,Devinder,Samastipur,8-Dec-15,160,4,640
+Gaya Thakur,M,124692,abc,Godiyari,Brinjal,Devinder,Tajpur,9-Dec-15,390,6,2340
+Vidyanand Singh,M,124693,abc,Godiyari,Brinjal,Devinder,Tajpur,9-Dec-15,630,6,3780
+Ranjit Das,M,124694,abc,Rajkarampur,Brinjal,Devinder,Tajpur,9-Dec-15,128,6,768
+Rakesh Singh,M,124695,abc,Rajkarampur,Onion_Sagga,Devinder,Tajpur,9-Dec-15,120,7,840
+Santan singh,M,124696,abc,Dadanpur,Coriander,Anil,Kalyani,9-Dec-15,6.5,14,91
+Vakil Sahani,M,124697,abc,Dadanpur,Onion,Anil,Kalyani,9-Dec-15,42,12,504
+Asha Devi,M,124698,abc,Dadanpur,sim,Anil,Kalyani,9-Dec-15,41,15,615
+Ramchandra singh,M,124699,abc,Dadanpur,Cauliflower,Anil,Kalyani,9-Dec-15,18.5,7,129.5
+Praveen Kumar,M,124700,abc,Banbira,Cabbage,Anil,Kalyani,9-Dec-15,66,5,330
+Vibha Devi,M,124701,abc,Dadanpur,Cauliflower,Anil,Kalyani,9-Dec-15,108,10,1080
+Anil sharma,M,124702,abc,Dadanpur,Amla,Anil,Kalyani,9-Dec-15,55,15,825
+Parekhan Sahni,M,124703,abc,Larua,Onion,Anil,Kalyani,10-Dec-15,45,10,450
+Sushila Devi,M,124704,abc,Larua,Cauliflower,Anil,Kalyani,10-Dec-15,13,11,143
+sandip Singh,M,124705,abc,Larua,Onion,Anil,Kalyani,10-Dec-15,52,9,468
+Vibha Devi,M,124706,abc,Larua,Cauliflower,Anil,Kalyani,10-Dec-15,110,9,990
+Manju Devi,M,124707,abc,Larua,Cauliflower,Anil,Kalyani,10-Dec-15,23,10,230
+Vakil Sahani,M,124708,abc,Larua,Onion,Anil,Kalyani,10-Dec-15,10,10,100
+Praveen Kumar,M,124709,abc,Banbira,Cabbage,Anil,Kalyani,10-Dec-15,105,4,420
+Ramdulari Devi,M,124710,abc,Banbira,Cauliflower,Anil,Kalyani,10-Dec-15,36,9,324
+Anil sharma,M,124711,abc,Banbira,Amla,Anil,Kalyani,10-Dec-15,30,15,450
+Ramdulari Devi,M,124712,abc,Dadanpur,sim,Anil,Kalyani,11-Dec-15,15.5,15,232.5
+Vibha Devi,M,124713,abc,Dadanpur,Cauliflower,Anil,Kalyani,11-Dec-15,145,10,1450
+Chandip singh,M,124714,abc,Dadanpur,Cauliflower,Anil,Kalyani,11-Dec-15,12,10,120
+Chandip singh,M,124715,abc,Dadanpur,Onion,Anil,Kalyani,11-Dec-15,49,10,490
+Manju Devi,M,124716,abc,Dadanpur,Cauliflower,Anil,Kalyani,11-Dec-15,29,10,290
+Sushila Devi,M,124717,abc,Dadanpur,Cauliflower,Anil,Kalyani,11-Dec-15,18,10,180
+Ramchandra singh,M,124718,abc,Dadanpur,Cauliflower,Anil,Kalyani,11-Dec-15,13,10,130
+Praveen Kumar,M,124719,abc,Banbira,Cabbage,Anil,Kalyani,11-Dec-15,132,5,660
+Inday singh,M,124720,abc,Dadanpur,Cauliflower,Anil,Kalyani,12-Dec-15,15.5,10,155
+Inday singh,M,124721,abc,Dadanpur,Brinjal,Anil,Kalyani,12-Dec-15,121,5,605
+Vibha Devi,M,124722,abc,Dadanpur,Cauliflower,Anil,Kalyani,12-Dec-15,69,10,690
+Manju Devi,M,124723,abc,Dadanpur,Cauliflower,Anil,Kalyani,12-Dec-15,29,10,290
+Krishna Devi,M,124724,abc,Dadanpur,Cauliflower,Anil,Kalyani,12-Dec-15,5,4,20
+Praveen Kumar,M,124725,abc,Banbira,Cabbage,Anil,Kalyani,12-Dec-15,130,4,520
+Praveen Kumar,M,124726,abc,Banbira,Brinjal,Anil,Kalyani,12-Dec-15,57,5,285
+Kamal saahi,M,124727,abc,Banbira,Cauliflower,Anil,Kalyani,13-Dec-15,56,12,672
+Praveen Kumar,M,124728,abc,Banbira,Cabbage,Anil,Kalyani,13-Dec-15,80,4,320
+Kamal Kishore Rai,M,124729,abc,Banbira,Potato,Anil,Kalyani,13-Dec-15,92,9,828
+Vibha Devi,M,124730,abc,Dadanpur,Cauliflower,Anil,Kalyani,13-Dec-15,80,12,960
+Ramdulari Devi,M,124731,abc,Dadanpur,Cauliflower,Anil,Kalyani,13-Dec-15,45,12,540
+Vikas Rai,M,124732,abc,Dadanpur,Onion,Anil,Kalyani,13-Dec-15,108,11,1188
+Manju Devi,M,124733,abc,Dadanpur,Cauliflower,Anil,Kalyani,14-Dec-15,26,11,286
+Ramdulari Devi,M,124734,abc,Dadanpur,Cauliflower,Anil,Kalyani,14-Dec-15,58,11,638
+Ratan singh,M,124735,abc,Dadanpur,Onion_Sagga,Anil,Kalyani,14-Dec-15,5,2,10
+Lalu singh,M,124736,abc,Dadanpur,cauliflower,Anil,Kalyani,14-Dec-15,81,12,972
+Lal rai,M,124737,abc,Banbira,onion,Anil,Kalyani,14-Dec-15,42,10,420
+Praveen Kumar,M,124738,abc,Banbira,Cabbage,Anil,Kalyani,14-Dec-15,96,5,480
+Praveen Kumar,M,124739,abc,Banbira,Brinjal,Anil,Kalyani,14-Dec-15,20.5,6,123
+Kamal Kishore Rai,M,124740,abc,Banbira,onion,Anil,Kalyani,14-Dec-15,220,10,2200
+Ramdulari Devi,M,124741,abc,Dadanpur,sim,Anil,Kalyani,15-Dec-15,13,15,195
+Sushila Devi,M,124742,abc,Dadanpur,cauliflower,Anil,Kalyani,15-Dec-15,29,11,319
+Inday singh,M,124743,abc,Dadanpur,cauliflower,Anil,Kalyani,15-Dec-15,49,11,539
+Vibha Devi,M,124744,abc,Dadanpur,cauliflower,Anil,Kalyani,15-Dec-15,52,11,572
+udya singh,M,124745,abc,Dadanpur,cauliflower,Anil,Kalyani,15-Dec-15,10.5,11,115.5
+Praveen Kumar,M,124746,abc,Banbira,Cabbage,Anil,Kalyani,15-Dec-15,60.5,4,242
+Praveen Kumar,M,124747,abc,Banbira,Brinjal,Anil,Kalyani,15-Dec-15,16,5,80
+Kamal saahi,M,124748,abc,Banbira,Potato,Anil,Kalyani,15-Dec-15,13.5,8,108
+Ram naresh singh,M,124749,abc,Godiyari,Cabbage,Ranjeet,Samastipur,11-Dec-15,500,3,1500
+Atma ram singh,M,124750,abc,Godiyari,cabbage,Ranjeet,Samastipur,11-Dec-15,430,2.5,1075
+Shankar singh,M,124751,abc,Godiyari,cabbage,Ranjeet,Samastipur,11-Dec-15,400,4,1600
+Hari kishore singh,M,124752,abc,Godiyari,Brinjal,Ranjeet,Samastipur,11-Dec-15,120,5,600
+Krishnanand Singh,M,124753,abc,Godiyari,Brinjal,Ranjeet,Samastipur,11-Dec-15,180,5,900
+Vidyanand Singh,M,124754,abc,Godiyari,cabbage,Ranjeet,Samastipur,11-Dec-15,212,3,636
+Kapil dev singh,M,124755,abc,Godiyari,cabbage,Ranjeet,Samastipur,11-Dec-15,607,3,1821
+Gaya Thakur,M,124756,abc,,Brinjal,Ranjeet,Samastipur,12-Dec-15,365,5.5,2007.5
+Saroj Thakur,M,124757,abc,,Brinjal,Ranjeet,Samastipur,12-Dec-15,55,5,275
+Raja ram singh,M,124758,abc,,Yam,Ranjeet,Samastipur,12-Dec-15,90,14,1260
+Ram naresh singh,M,124759,abc,Godiyari,cabbage,Ranjeet,Samastipur,12-Dec-15,152,2,304
+lav kumar,M,124760,abc,Godiyari,cabbage,Ranjeet,Samastipur,12-Dec-15,268,3,804
+Parvati Devi,M,124761,abc,Godiyari,Brinjal,Ranjeet,Samastipur,12-Dec-15,13,5,65
+Sudhir Chowdhary,M,124762,abc,,Brinjal,Ranjeet,Samastipur,12-Dec-15,735,5,3675
+Lalbabu singh,M,124763,abc,,Brinjal,Ranjeet,Samastipur,12-Dec-15,590,5,2950
+Sanjiv Roy,M,124764,abc,Godiyari,Brinjal,Ranjeet,Samastipur,12-Dec-15,380,4,1520
+Sanjiv Roy,M,124765,abc,Godiyari,Brinjal,Ranjeet,Samastipur,12-Dec-15,234,3.5,819
+Narayan Roy,M,124766,abc,Godiyari,Brinjal,Ranjeet,Samastipur,12-Dec-15,412,3.5,1442
+Raju roy,M,124767,abc,Godiyari,Brinjal,Ranjeet,Samastipur,12-Dec-15,40,3.5,140
+Mithilesh Roy,M,124768,abc,Godiyari,Brinjal,Ranjeet,Samastipur,12-Dec-15,176,4,704
+Mithilesh Roy,M,124769,abc,Godiyari,Brinjal,Ranjeet,Samastipur,12-Dec-15,429,3.5,1501.5
+Shatrudhan,M,124770,abc,Godiyari,Brinjal,Ranjeet,,13-Dec-15,74,8,592
+Jagadish singh,M,124771,abc,Godiyari,Brinjal,Ranjeet,,13-Dec-15,48,8,384
+Jagadish singh,M,124772,abc,Godiyari,cauliflower,Ranjeet,,13-Dec-15,150,8,1200
+Vidyanand Singh,M,124773,abc,Godiyari,cabbage,Ranjeet,,13-Dec-15,370,3,1110
+Saral singh,M,124774,abc,Godiyari,Brinjal,Ranjeet,,13-Dec-15,300,5,1500
+Rajit singh,M,124775,abc,Godiyari,Brinjal,Ranjeet,,13-Dec-15,264,5,1320
+Ram naresh singh,M,124776,abc,Godiyari,Brinjal,Ranjeet,,13-Dec-15,752,5,3760
+Ram naresh singh,M,124777,abc,Godiyari,Brinjal,Ranjeet,,13-Dec-15,306,5,1530
+Ram naresh singh,M,124778,abc,Godiyari,cabbage,Ranjeet,Samastipur,14-Dec-15,129,3,387
+Saral singh,M,124779,abc,Godiyari,Brinjal,Ranjeet,Samastipur,14-Dec-15,391,5,1955
+Umesh singh,M,124780,abc,Godiyari,Brinjal,Ranjeet,Samastipur,14-Dec-15,77,5,385
+Jyoti shankar,M,124781,abc,Godiyari,cabbage,Ranjeet,Samastipur,14-Dec-15,778,3,2334
+Shankar Kumar,M,124782,abc,Godiyari,cabbage,Ranjeet,Samastipur,14-Dec-15,500,3,1500
+Vidyanand Singh,M,124783,abc,Godiyari,Brinjal,Ranjeet,Samastipur,14-Dec-15,170,5.5,935
+------Ram,M,124784,abc,Godiyari,cabbage,Ranjeet,Samastipur,14-Dec-15,503,3,1509
+Umesh Ram,M,124785,abc,Godiyari,Brinjal,Ranjeet,Samastipur,15-Dec-15,539,3.5,1886.5
+Saurabh kumar,M,124786,abc,Godiyari,Brinjal,Ranjeet,Samastipur,15-Dec-15,138,3.5,483
+Saurabh kumar,M,124787,abc,Godiyari,Brinjal,Ranjeet,Samastipur,15-Dec-15,205,3.25,666.25
+Saurabh kumar,M,124788,abc,Godiyari,Brinjal,Ranjeet,Samastipur,15-Dec-15,132,3,396
+Narayan Roy,M,124789,abc,Godiyari,Brinjal,Ranjeet,Samastipur,15-Dec-15,562,3.25,1826.5
+Subhodh Roy,M,124790,abc,Godiyari,Brinjal,Ranjeet,Samastipur,15-Dec-15,75,3,225
+Payu larti,M,124791,abc,Godiyari,Brinjal,Ranjeet,Samastipur,15-Dec-15,230,3.5,805
+Payu larti,M,124792,abc,Godiyari,Brinjal,Ranjeet,Samastipur,15-Dec-15,288,3,864
+Lalbabu singh,M,124793,abc,Godiyari,Brinjal,Ranjeet,Samastipur,16-Dec-15,580,6,3480
+Vikas Rai,M,124794,abc,Godiyari,Cabbage,Ranjeet,Samastipur,16-Dec-15,554,3,1662
+Ramannand roy,M,124795,abc,Godiyari,Cabbage,Ranjeet,Samastipur,16-Dec-15,1030,3,3090
+Vidyanand Singh,M,124796,abc,Godiyari,Cabbage,Ranjeet,Samastipur,16-Dec-15,351,3.5,1228.5
+Rambabu Roy,M,124797,abc,Godiyari,Cabbage,Ranjeet,Samastipur,17-Dec-15,70.4,4,281.6
+Rambabu Roy,M,124798,abc,Godiyari,Brinjal,Ranjeet,Samastipur,17-Dec-15,84,7,588
+Rajiv roy,M,124799,abc,Godiyari,Cabbage,Ranjeet,Samastipur,17-Dec-15,,4,0
+Umesh roy,M,124800,abc,Godiyari,Cabbage,Ranjeet,Samastipur,17-Dec-15,,4,0
+Dinesh roy,M,124801,abc,Godiyari,Cabbage,Ranjeet,Samastipur,17-Dec-15,325,4,1300
+Pramod roy,M,124802,abc,Godiyari,Cabbage,Ranjeet,Samastipur,17-Dec-15,308,4,1232
+Ganesh Roy,M,124803,abc,Godiyari,Cabbage,Ranjeet,Samastipur,17-Dec-15,325,4,1300
+Ajay Kumar Thakur,M,124804,abc,Nikaspur,Brinjal,Devinder,Tajpur,10-Dec-15,240,5,1200
+Nanda Kumar Thakur,M,124805,abc,Nikaspur,Brinjal,Devinder,Tajpur,10-Dec-15,320,5.5,1760
+Divish Thakur,M,124806,abc,Nikaspur,Brinjal,Devinder,Tajpur,10-Dec-15,640,5,3200
+Vinod singh,M,124807,abc,Nikaspur,Brinjal,Devinder,Tajpur,10-Dec-15,240,6,1440
+Rajgir singh,M,124808,abc,Rajkarampur,Brinjal,Devinder,Tajpur,10-Dec-15,25,6,150
+Suresh Singh,M,124809,abc,Rajkarampur,Kaddu,Devinder,Tajpur,10-Dec-15,10,10,100
+ShivKuamr,M,124810,abc,Rajkarampur,Raddish,Devinder,Tajpur,10-Dec-15,55,4,220
+Surendar singh,M,124811,abc,Rajkarampur,Raddish,Devinder,Tajpur,10-Dec-15,88,3,264
+Ravinder singh,M,124812,abc,Rajkarampur,Kaddu,Devinder,Tajpur,10-Dec-15,120,11,1320
+Mukesh singh,M,124813,abc,Rajkarampur,Brinjal,Devinder,Tajpur,10-Dec-15,195,5.5,1072.5
+Dukhabi devi,M,124814,abc,Rajkarampur,onion,Devinder,Tajpur,10-Dec-15,125,6,750
+Soman Singh,M,124815,abc,Rajkarampur,Onion,Devinder,Tajpur,10-Dec-15,110,5,550
+Suresh Singh,M,124816,abc,Rajkarampur,Raddish,Devinder,Tajpur,11-Dec-15,75,3,225
+Rajeshwar singh,M,124817,abc,Rajkarampur,Raddish,Devinder,Tajpur,11-Dec-15,65,4,260
+Umeshwar Singh,M,124818,abc,Rajkarampur,Raddish,Devinder,Tajpur,11-Dec-15,55,4,220
+Atma ram ,M,124819,abc,Godiyari,Brinjal,Devinder,Tajpur,11-Dec-15,140,5,700
+Jagadish singh,M,124820,abc,Godiyari,cauliflower,Devinder,Tajpur,11-Dec-15,250,5.5,1375
+Ram Kumar,M,124821,abc,Godiyari,Cabbage,Devinder,Tajpur,11-Dec-15,290,3,870
+Sanjay Singh,M,124822,abc,Rajkarampur,sim,Devinder,Tajpur,12-Dec-15,70,21,1470
+Ajit singh,M,124823,abc,Rajkarampur,Brinjal,Devinder,Tajpur,12-Dec-15,68,6,408
+Devinder Singh,M,124824,abc,Rajkarampur,Brinjal,Devinder,Tajpur,12-Dec-15,95,6,570
+Surendar singh,M,124825,abc,Rajkarampur,Brinjal,Devinder,Tajpur,12-Dec-15,90,6,540
+Ramu Roy,M,124826,abc,Anandpur,Cabbage,Devinder,Tajpur,12-Dec-15,420,3,1260
+Dhanilal Singh,M,124827,abc,Rajkarampur,Brinjal,Devinder,Tajpur,12-Dec-15,140,6,840
+Narayan singh,M,124828,abc,Rajkarampur,Raddish,Devinder,Tajpur,12-Dec-15,30,3,90
+Chandar Dev singh,M,124829,abc,Rajkarampur,Brinjal,Devinder,Tajpur,12-Dec-15,92,6,552
+Indrajit roy,M,124830,abc,Godiyari,cauliflower,Devinder,Tajpur,12-Dec-15,300,8,2400
+Vinod singh,M,124831,abc,Nikaspur,Brinjal,Devinder,Tajpur,12-Dec-15,290,5,1450
+Indrajit roy,M,124832,abc,Godiyari,Cabbage,Devinder,Samastipur,12-Dec-15,800,4,3200
+Anand Roy,M,124833,abc,Godiyari,Cabbage,Devinder,Samastipur,12-Dec-15,320,4,1280
+Ram vilas Roy,M,124834,abc,Godiyari,Cabbage,Devinder,Samastipur,12-Dec-15,545,4,2180
+Ravinder singh,M,124835,abc,Rajkarampur,Brinjal,Devinder,Tajpur,13-Dec-15,118,6,708
+Ravinder singh,M,124836,abc,Rajkarampur,Kaddu,Devinder,Tajpur,13-Dec-15,115,10,1150
+Satish singh,M,124837,abc,Rajkarampur,Brinjal,Devinder,Tajpur,13-Dec-15,90,6,540
+Sanjaylal singh,M,124838,abc,Rajkarampur,Brinjal,Devinder,Tajpur,13-Dec-15,130,5.5,715
+Suresh Singh,M,124839,abc,Rajkarampur,Raddish,Devinder,Tajpur,13-Dec-15,85,3,255
+Shivakumar,M,124840,abc,Rajkarampur,Raddish,Devinder,Tajpur,13-Dec-15,73,4,292
+Sanjaykumar singh,M,124841,abc,Rajkarampur,sim,Devinder,Tajpur,13-Dec-15,59,20,1180
+Sindhu chowdhary,M,124842,abc,Anandpur,Brinjal,Devinder,Tajpur,13-Dec-15,155,6,930
+Sanjay ray,M,124843,abc,Nikaspur,Cabbage,Devinder,Tajpur,13-Dec-15,355,4,1420
+Bisnoy singh,M,124844,abc,Rajkarampur,Cabbage,Devinder,Tajpur,14-Dec-15,370,3.5,1295
+Sanjay Singh,M,124845,abc,Rajkarampur,sim,Devinder,Tajpur,14-Dec-15,130,19,2470
+Suresh Das,M,124846,abc,Rajkarampur,Cabbage,Devinder,Tajpur,14-Dec-15,160,3,480
+Narayan singh,M,124847,abc,Rajkarampur,Cabbage,Devinder,Tajpur,14-Dec-15,110,4,440
+Suresh Singh,M,124848,abc,Rajkarampur,Raddish,Devinder,Tajpur,14-Dec-15,58,2,116
+Roshan Kumar,M,124849,abc,Rajkarampur,sim,Devinder,Tajpur,14-Dec-15,30,20,600
+Lakhindra singh,M,124850,abc,Nikaspur,Cabbage,Devinder,,15-Dec-15,500,3,1500
+Dinesh singh,M,124851,abc,Nikaspur,Cabbage,Devinder,,15-Dec-15,1300,3,3900
+Mahindra singh,M,124852,abc,Nikaspur,Cabbage,Devinder,,15-Dec-15,250,3,750
+---singh,M,124853,abc,Nikaspur,Cabbage,Devinder,,15-Dec-15,200,3,600
+Surendar singh,M,124854,abc,Nikaspur,Cabbage,Devinder,,15-Dec-15,260,3,780
+Nanda Kumar Thakur,M,124855,abc,Nikaspur,Cabbage,Devinder,Tajpur,16-Dec-15,660,3.5,2310
+Lakhindra singh,M,124856,abc,Nikaspur,Cabbage,Devinder,Tajpur,16-Dec-15,208,3.5,728
+Surendar singh,M,124857,abc,Nikaspur,Cabbage,Devinder,Tajpur,16-Dec-15,235,4,940
+Lalbabu singh,M,124858,abc,Nikaspur,Cabbage,Devinder,Tajpur,16-Dec-15,315,3.5,1102.5
+Sanjaykumar ,M,124859,abc,Nikaspur,Raddish,Devinder,Tajpur,16-Dec-15,35,5,175
+,,,,,,,,,,,175
